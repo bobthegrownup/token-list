@@ -62,7 +62,10 @@
       "logoURI": "https://cdn.jsdelivr.net/gh/trustwallet/assets@master/blockchains/solana/info/logo.png",
       "tags": [],
       "extensions": {
-        "website": "https://solana.com/"
+        "website": "https://solana.com/",
+        "serumV3Usdc": "9wFFyRfZBsuAha4YcuxcXLKwMxJR43S7fPfQLusDBzvT",
+        "serumV3Usdt": "HWHvQhFmJB3NUcu1aihKmrKegfVxBEHzwVX6yZCKEsi1",
+        "coingeckoId": "solana"
       }
     },
     {
@@ -71,12 +74,13 @@
       "symbol": "USDC",
       "name": "USD Coin",
       "decimals": 6,
-      "logoURI": "https://cdn.jsdelivr.net/gh/trustwallet/assets@master/blockchains/ethereum/assets/0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48/logo.png",
+      "logoURI": "https://cdn.jsdelivr.net/gh/solana-labs/token-list@main/assets/mainnet/EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v/logo.png",
       "tags": [
         "stablecoin"
       ],
       "extensions": {
-        "website": "https://www.centre.io/"
+        "website": "https://www.centre.io/",
+        "coingeckoId": "usd-coin"
       }
     },
     {
@@ -91,7 +95,10 @@
         "ethereum"
       ],
       "extensions": {
-        "bridgeContract": "https://etherscan.io/address/0xeae57ce9cc1984f202e15e038b964bb8bdf7229a"
+        "bridgeContract": "https://etherscan.io/address/0xeae57ce9cc1984f202e15e038b964bb8bdf7229a",
+        "serumV3Usdc": "A8YFbxQYFVqKZaoYJLLUVcQiWP7G2MeEgW5wsAQgMvFw",
+        "serumV3Usdt": "C1EuT9VokAKLiW7i2ASnZUvxDoKuKkCpDDeNxAptuNe4",
+        "coingeckoId": "bitcoin"
       }
     },
     {
@@ -106,7 +113,10 @@
         "ethereum"
       ],
       "extensions": {
-        "bridgeContract": "https://etherscan.io/address/0xeae57ce9cc1984f202e15e038b964bb8bdf7229a"
+        "bridgeContract": "https://etherscan.io/address/0xeae57ce9cc1984f202e15e038b964bb8bdf7229a",
+        "serumV3Usdc": "4tSvZvnbyzHXLMTiFonMyxZoHmFqau1XArcRCVHLZ5gX",
+        "serumV3Usdt": "7dLVkUfBVfCGkFhSXDCq1ukM9usathSgS716t643iFGF",
+        "coingeckoId": "ethereum"
       }
     },
     {
@@ -121,7 +131,10 @@
         "ethereum"
       ],
       "extensions": {
-        "bridgeContract": "https://etherscan.io/address/0xeae57ce9cc1984f202e15e038b964bb8bdf7229a"
+        "bridgeContract": "https://etherscan.io/address/0xeae57ce9cc1984f202e15e038b964bb8bdf7229a",
+        "serumV3Usdc": "7qcCo8jqepnjjvB5swP4Afsr3keVBs6gNpBTNubd1Kr2",
+        "serumV3Usdt": "3Xg9Q4VtZhD4bVYJbTfgGWFV5zjE3U7ztSHa938zizte",
+        "coingeckoId": "yearn-finance"
       }
     },
     {
@@ -136,7 +149,10 @@
         "ethereum"
       ],
       "extensions": {
-        "bridgeContract": "https://etherscan.io/address/0xeae57ce9cc1984f202e15e038b964bb8bdf7229a"
+        "bridgeContract": "https://etherscan.io/address/0xeae57ce9cc1984f202e15e038b964bb8bdf7229a",
+        "serumV3Usdc": "3hwH1txjJVS8qv588tWrjHfRxdqNjBykM1kMcit484up",
+        "serumV3Usdt": "3yEZ9ZpXSQapmKjLAGKZEzUNA1rcupJtsDp5mPBWmGZR",
+        "coingeckoId": "chainlink"
       }
     },
     {
@@ -151,7 +167,8 @@
         "ethereum"
       ],
       "extensions": {
-        "bridgeContract": "https://etherscan.io/address/0xeae57ce9cc1984f202e15e038b964bb8bdf7229a"
+        "bridgeContract": "https://etherscan.io/address/0xeae57ce9cc1984f202e15e038b964bb8bdf7229a",
+        "coingeckoId": "ripple"
       }
     },
     {
@@ -167,7 +184,8 @@
         "ethereum"
       ],
       "extensions": {
-        "bridgeContract": "https://etherscan.io/address/0xeae57ce9cc1984f202e15e038b964bb8bdf7229a"
+        "bridgeContract": "https://etherscan.io/address/0xeae57ce9cc1984f202e15e038b964bb8bdf7229a",
+        "coingeckoId": "tether"
       }
     },
     {
@@ -183,7 +201,10 @@
       ],
       "extensions": {
         "website": "https://www.sushi.com",
-        "bridgeContract": "https://etherscan.io/address/0xeae57ce9cc1984f202e15e038b964bb8bdf7229a"
+        "bridgeContract": "https://etherscan.io/address/0xeae57ce9cc1984f202e15e038b964bb8bdf7229a",
+        "serumV3Udsc": "A1Q9iJDVVS8Wsswr9ajeZugmj64bQVCYLZQLra2TMBMo",
+        "serumV3Usdt": "6DgQRTpJTnAYBSShngAVZZDq7j9ogRN1GfSQ3cq9tubW",
+        "coingeckoId": "sushi"
       }
     },
     {
@@ -198,7 +219,10 @@
         "ethereum"
       ],
       "extensions": {
-        "bridgeContract": "https://etherscan.io/address/0xeae57ce9cc1984f202e15e038b964bb8bdf7229a"
+        "bridgeContract": "https://etherscan.io/address/0xeae57ce9cc1984f202e15e038b964bb8bdf7229a",
+        "serumV3Usdc": "GcoKtAmTy5QyuijXSmJKBtFdt99e6Buza18Js7j9AJ6e",
+        "serumV3Usdt": "Gyp1UGRgbrb6z8t7fpssxEKQgEmcJ4pVnWW3ds2p6ZPY",
+        "coingeckoId": "aleph"
       }
     },
     {
@@ -213,7 +237,10 @@
         "ethereum"
       ],
       "extensions": {
-        "bridgeContract": "https://etherscan.io/address/0xeae57ce9cc1984f202e15e038b964bb8bdf7229a"
+        "bridgeContract": "https://etherscan.io/address/0xeae57ce9cc1984f202e15e038b964bb8bdf7229a",
+        "serumV3Usdc": "4LUro5jaPaTurXK737QAxgJywdhABnFAMQkXX4ZyqqaZ",
+        "serumV3Usdt": "8afKwzHR3wJE7W7Y5hvQkngXh6iTepSZuutRMMy96MjR",
+        "coingeckoId": "swipe"
       }
     },
     {
@@ -229,7 +256,10 @@
       ],
       "extensions": {
         "website": "https://www.hedget.com/",
-        "bridgeContract": "https://etherscan.io/address/0xeae57ce9cc1984f202e15e038b964bb8bdf7229a"
+        "bridgeContract": "https://etherscan.io/address/0xeae57ce9cc1984f202e15e038b964bb8bdf7229a",
+        "serumV3Usdc": "88vztw7RTN6yJQchVvxrs6oXUDryvpv9iJaFa1EEmg87",
+        "serumV3Usdt": "ErQXxiNfJgd4fqQ58PuEw5xY35TZG84tHT6FXf5s4UxY",
+        "coingeckoId": "hedget"
       }
     },
     {
@@ -244,7 +274,10 @@
         "ethereum"
       ],
       "extensions": {
-        "bridgeContract": "https://etherscan.io/address/0xeae57ce9cc1984f202e15e038b964bb8bdf7229a"
+        "bridgeContract": "https://etherscan.io/address/0xeae57ce9cc1984f202e15e038b964bb8bdf7229a",
+        "serumV3Usdc": "7nZP6feE94eAz9jmfakNJWPwEKaeezuKKC5D1vrnqyo2",
+        "serumV3Usdt": "4ztJEvQyryoYagj2uieep3dyPwG2pyEwb2dKXTwmXe82",
+        "coingeckoId": "cream-2"
       }
     },
     {
@@ -260,7 +293,10 @@
       ],
       "extensions": {
         "website": "https://upbots.com/",
-        "explorer": "https://etherscan.io/address/0xeae57ce9cc1984f202e15e038b964bb8bdf7229a"
+        "explorer": "https://etherscan.io/address/0xeae57ce9cc1984f202e15e038b964bb8bdf7229a",
+        "serumV3Usdc": "2wr3Ab29KNwGhtzr5HaPCyfU1qGJzTUAN4amCLZWaD1H",
+        "serumV3Usdt": "F1T7b6pnR8Pge3qmfNUfW6ZipRDiGpMww6TKTrRU4NiL",
+        "coingeckoId": "upbots"
       }
     },
     {
@@ -275,7 +311,10 @@
         "ethereum"
       ],
       "extensions": {
-        "bridgeContract": "https://etherscan.io/address/0xeae57ce9cc1984f202e15e038b964bb8bdf7229a"
+        "bridgeContract": "https://etherscan.io/address/0xeae57ce9cc1984f202e15e038b964bb8bdf7229a",
+        "serumV3Usdc": "CnUV42ZykoKUnMDdyefv5kP6nDSJf7jFd7WXAecC6LYr",
+        "serumV3Usdt": "8FpuMGLtMZ7Wt9ZvyTGuTVwTwwzLYfS5NZWcHxbP1Wuh",
+        "coingeckoId": "HNT"
       }
     },
     {
@@ -290,7 +329,10 @@
         "ethereum"
       ],
       "extensions": {
-        "bridgeContract": "https://etherscan.io/address/0xeae57ce9cc1984f202e15e038b964bb8bdf7229a"
+        "bridgeContract": "https://etherscan.io/address/0xeae57ce9cc1984f202e15e038b964bb8bdf7229a",
+        "serumV3Usdc": "9Zx1CvxSVdroKMMWf2z8RwrnrLiQZ9VkQ7Ex3syQqdSH",
+        "serumV3Usdt": "CGC4UgWwqA9PET6Tfx6o6dLv94EK2coVkPtxgNHuBtxj",
+        "coingeckoId": "frontier-token"
       }
     },
     {
@@ -305,7 +347,10 @@
         "ethereum"
       ],
       "extensions": {
-        "bridgeContract": "https://etherscan.io/address/0xeae57ce9cc1984f202e15e038b964bb8bdf7229a"
+        "bridgeContract": "https://etherscan.io/address/0xeae57ce9cc1984f202e15e038b964bb8bdf7229a",
+        "serumV3Usdc": "5CZXTTgVZKSzgSA3AFMN5a2f3hmwmmJ6hU8BHTEJ3PX8",
+        "serumV3Usdt": "HLvRdctRB48F9yLnu9E24LUTRt89D48Z35yi1HcxayDf",
+        "coingeckoId": "akropolis"
       }
     },
     {
@@ -320,7 +365,10 @@
         "ethereum"
       ],
       "extensions": {
-        "bridgeContract": "https://etherscan.io/address/0xeae57ce9cc1984f202e15e038b964bb8bdf7229a"
+        "bridgeContract": "https://etherscan.io/address/0xeae57ce9cc1984f202e15e038b964bb8bdf7229a",
+        "serumV3Usdc": "6Pn1cSiRos3qhBf54uBP9ZQg8x3JTardm1dL3n4p29tA",
+        "serumV3Usdt": "4absuMsgemvdjfkgdLQq1zKEjw3dHBoCWkzKoctndyqd",
+        "coingeckoId": "hxro"
       }
     },
     {
@@ -335,7 +383,10 @@
         "ethereum"
       ],
       "extensions": {
-        "bridgeContract": "https://etherscan.io/address/0xeae57ce9cc1984f202e15e038b964bb8bdf7229a"
+        "bridgeContract": "https://etherscan.io/address/0xeae57ce9cc1984f202e15e038b964bb8bdf7229a",
+        "serumV3Usdc": "6JYHjaQBx6AtKSSsizDMwozAEDEZ5KBsSUzH7kRjGJon",
+        "serumV3Usdt": "2SSnWNrc83otLpfRo792P6P3PESZpdr8cu2r8zCE6bMD",
+        "coingeckoId": "uniswap"
       }
     },
     {
@@ -347,7 +398,10 @@
       "logoURI": "https://cdn.jsdelivr.net/gh/trustwallet/assets@master/blockchains/ethereum/assets/0x476c5E26a75bd202a9683ffD34359C0CC15be0fF/logo.png",
       "tags": [],
       "extensions": {
-        "website": "https://projectserum.com/"
+        "website": "https://projectserum.com/",
+        "serumV3Usdc": "ByRys5tuUWDgL73G8JBAEfkdFf8JWBzPBDHsBVQ5vbQA",
+        "serumV3Usdt": "AtNnsY1AyRERWJ8xCskfz38YdvruWVJQUVXgScC1iPb",
+        "coingeckoId": "serum"
       }
     },
     {
@@ -356,14 +410,17 @@
       "symbol": "FTT",
       "name": "Wrapped FTT (Sollet)",
       "decimals": 6,
-      "logoURI": "https://cdn.jsdelivr.net/gh/solana-labs/token-list/assets/mainnet/AGFEad2et2ZJif9jaGpdMixQqvW5i81aBdvKe7PHNfz3/logo.png",
+      "logoURI": "https://cdn.jsdelivr.net/gh/solana-labs/token-list@main/assets/mainnet/AGFEad2et2ZJif9jaGpdMixQqvW5i81aBdvKe7PHNfz3/logo.png",
       "tags": [
         "wrapped-sollet",
         "ethereum"
       ],
       "extensions": {
         "bridgeContract": "https://etherscan.io/address/0xeae57ce9cc1984f202e15e038b964bb8bdf7229a",
-        "assetContract": "https://etherscan.io/address/0x50d1c9771902476076ecfc8b2a83ad6b9355a4c9"
+        "assetContract": "https://etherscan.io/address/0x50d1c9771902476076ecfc8b2a83ad6b9355a4c9",
+        "serumV3Usdc": "2Pbh1CvRVku1TgewMfycemghf6sU9EyuFDcNXqvRmSxc",
+        "serumV3Usdt": "Hr3wzG8mZXNHV7TuL6YqtgfVUesCqMxGYCEyP3otywZE",
+        "coingeckoId": "ftx-token"
       }
     },
     {
@@ -375,7 +432,10 @@
       "logoURI": "https://cdn.jsdelivr.net/gh/trustwallet/assets@master/blockchains/ethereum/assets/0x476c5E26a75bd202a9683ffD34359C0CC15be0fF/logo.png",
       "tags": [],
       "extensions": {
-        "website": "https://projectserum.com/"
+        "website": "https://projectserum.com/",
+        "serumV3Usdc": "4VKLSYdvrQ5ngQrt1d2VS8o4ewvb2MMUZLiejbnGPV33",
+        "serumV3Usdt": "5nLJ22h1DUfeCfwbFxPYK8zbfbri7nA9bXoDcR8AcJjs",
+        "coingeckoId": "megaserum"
       }
     },
     {
@@ -384,12 +444,15 @@
       "symbol": "WUSDC",
       "name": "Wrapped USDC (Sollet)",
       "decimals": 6,
-      "logoURI": "https://cdn.jsdelivr.net/gh/trustwallet/assets@master/blockchains/ethereum/assets/0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48/logo.png",
+      "logoURI": "https://cdn.jsdelivr.net/gh/solana-labs/token-list@main/assets/mainnet/EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v/logo.png",
       "tags": [
         "stablecoin",
         "wrapped-sollet",
         "ethereum"
-      ]
+      ],
+      "extensions": {
+        "coingeckoId": "usdc-coin"
+      }
     },
     {
       "chainId": 101,
@@ -403,7 +466,10 @@
         "ethereum"
       ],
       "extensions": {
-        "bridgeContract": "https://etherscan.io/address/0xeae57ce9cc1984f202e15e038b964bb8bdf7229a"
+        "bridgeContract": "https://etherscan.io/address/0xeae57ce9cc1984f202e15e038b964bb8bdf7229a",
+        "serumV3Usdc": "8BdpjpSD5n3nk8DQLqPUyTZvVqFu6kcff5bzUX5dqDpy",
+        "serumV3Usdt": "GnKPri4thaGipzTbp8hhSGSrHgG4F8MFiZVrbRn16iG2",
+        "coingeckoId": "tomochain"
       }
     },
     {
@@ -418,7 +484,8 @@
         "ethereum"
       ],
       "extensions": {
-        "bridgeContract": "https://etherscan.io/address/0xeae57ce9cc1984f202e15e038b964bb8bdf7229a"
+        "bridgeContract": "https://etherscan.io/address/0xeae57ce9cc1984f202e15e038b964bb8bdf7229a",
+        "coingeckoId": "karma-dao"
       }
     },
     {
@@ -433,7 +500,10 @@
         "ethereum"
       ],
       "extensions": {
-        "bridgeContract": "https://etherscan.io/address/0xeae57ce9cc1984f202e15e038b964bb8bdf7229a"
+        "bridgeContract": "https://etherscan.io/address/0xeae57ce9cc1984f202e15e038b964bb8bdf7229a",
+        "serumV3Usdc": "4xyWjQ74Eifq17vbue5Ut9xfFNfuVB116tZLEpiZuAn8",
+        "serumV3Usdt": "35tV8UsHH8FnSAi3YFRrgCu4K9tb883wKnAXpnihot5r",
+        "coingeckoId": "lua-token"
       }
     },
     {
@@ -447,7 +517,10 @@
         "ethereum"
       ],
       "extensions": {
-        "bridgeContract": "https://etherscan.io/address/0xeae57ce9cc1984f202e15e038b964bb8bdf7229a"
+        "bridgeContract": "https://etherscan.io/address/0xeae57ce9cc1984f202e15e038b964bb8bdf7229a",
+        "serumV3Usdc": "J7cPYBrXVy8Qeki2crZkZavcojf2sMRyQU7nx438Mf8t",
+        "serumV3Usdt": "2WghiBkDL2yRhHdvm8CpprrkmfguuQGJTCDfPSudKBAZ",
+        "coingeckoId": "math"
       }
     },
     {
@@ -462,7 +535,10 @@
         "ethereum"
       ],
       "extensions": {
-        "bridgeContract": "https://etherscan.io/address/0xeae57ce9cc1984f202e15e038b964bb8bdf7229a"
+        "bridgeContract": "https://etherscan.io/address/0xeae57ce9cc1984f202e15e038b964bb8bdf7229a",
+        "serumV3Usdc": "3rgacody9SvM88QR83GHaNdEEx4Fe2V2ed5GJp2oeKDr",
+        "serumV3Usdt": "HEGnaVL5i48ubPBqWAhodnZo8VsSLzEM3Gfc451DnFj9",
+        "coingeckoId": "keep-network"
       }
     },
     {
@@ -477,7 +553,9 @@
         "ethereum"
       ],
       "extensions": {
-        "bridgeContract": "https://etherscan.io/address/0xeae57ce9cc1984f202e15e038b964bb8bdf7229a"
+        "bridgeContract": "https://etherscan.io/address/0xeae57ce9cc1984f202e15e038b964bb8bdf7229a",
+        "serumV3Usdt": "J2XSt77XWim5HwtUM8RUwQvmRXNZsbMKpp5GTKpHafvf",
+        "coingeckoId": "swag-finance"
       }
     },
     {
@@ -492,7 +570,9 @@
         "ethereum"
       ],
       "extensions": {
-        "bridgeContract": "https://etherscan.io/address/0xeae57ce9cc1984f202e15e038b964bb8bdf7229a"
+        "bridgeContract": "https://etherscan.io/address/0xeae57ce9cc1984f202e15e038b964bb8bdf7229a",
+        "serumV3Usdt": "cgani53cMZgYfRMgSrNekJTMaLmccRfspsfTbXWRg7u",
+        "coingeckoId": "celsius-degree-token"
       }
     },
     {
@@ -507,7 +587,9 @@
         "ethereum"
       ],
       "extensions": {
-        "bridgeContract": "https://etherscan.io/address/0xeae57ce9cc1984f202e15e038b964bb8bdf7229a"
+        "bridgeContract": "https://etherscan.io/address/0xeae57ce9cc1984f202e15e038b964bb8bdf7229a",
+        "serumV3Usdt": "FcPet5fz9NLdbXwVM6kw2WTHzRAD7mT78UjwTpawd7hJ",
+        "coingeckoId": "reserve-rights-token"
       }
     },
     {
@@ -522,7 +604,8 @@
         "ethereum"
       ],
       "extensions": {
-        "bridgeContract": "https://etherscan.io/address/0xeae57ce9cc1984f202e15e038b964bb8bdf7229a"
+        "bridgeContract": "https://etherscan.io/address/0xeae57ce9cc1984f202e15e038b964bb8bdf7229a",
+        "coingeckoId": "1inch"
       }
     },
     {
@@ -537,7 +620,8 @@
         "ethereum"
       ],
       "extensions": {
-        "bridgeContract": "https://etherscan.io/address/0xeae57ce9cc1984f202e15e038b964bb8bdf7229a"
+        "bridgeContract": "https://etherscan.io/address/0xeae57ce9cc1984f202e15e038b964bb8bdf7229a",
+        "coingeckoId": "the-graph"
       }
     },
     {
@@ -552,7 +636,8 @@
         "ethereum"
       ],
       "extensions": {
-        "bridgeContract": "https://etherscan.io/address/0xeae57ce9cc1984f202e15e038b964bb8bdf7229a"
+        "bridgeContract": "https://etherscan.io/address/0xeae57ce9cc1984f202e15e038b964bb8bdf7229a",
+        "coingeckoId": "compound-coin"
       }
     },
     {
@@ -567,7 +652,24 @@
         "ethereum"
       ],
       "extensions": {
-        "bridgeContract": "https://etherscan.io/address/0xeae57ce9cc1984f202e15e038b964bb8bdf7229a"
+        "bridgeContract": "https://etherscan.io/address/0xeae57ce9cc1984f202e15e038b964bb8bdf7229a",
+        "coingeckoId": "pax-gold"
+      }
+    },
+    {
+      "chainId": 101,
+      "address": "AByXcTZwJHMtrKrvVsh9eFNB1pJaLDjCUR2ayvxBAAM2",
+      "symbol": "STRONG",
+      "name": "Wrapped Strong (Sollet)",
+      "decimals": 6,
+      "logoURI": "https://cdn.jsdelivr.net/gh/trustwallet/assets@master/blockchains/ethereum/assets/0x990f341946A3fdB507aE7e52d17851B87168017c/logo.png",
+      "tags": [
+        "wrapped-sollet",
+        "ethereum"
+      ],
+      "extensions": {
+        "bridgeContract": "https://etherscan.io/address/0xeae57ce9cc1984f202e15e038b964bb8bdf7229a",
+        "coingeckoId": "strong"
       }
     },
     {
@@ -579,7 +681,10 @@
       "logoURI": "https://cdn.jsdelivr.net/gh/dr497/awesome-serum-markets/icons/fida.svg",
       "tags": [],
       "extensions": {
-        "website": "https://bonfida.com/"
+        "website": "https://bonfida.com/",
+        "serumV3Usdc": "E14BKBhDWD4EuTkWj1ooZezesGxMW8LPCps4W5PuzZJo",
+        "serumV3Usdt": "EbV7pPpEvheLizuYX3gUCvWM8iySbSRAhu2mQ5Vz2Mxf",
+        "coingeckoId": "bonfida"
       }
     },
     {
@@ -589,7 +694,12 @@
       "name": "KIN",
       "decimals": 5,
       "logoURI": "https://cdn.jsdelivr.net/gh/trustwallet/assets@master/blockchains/kin/info/logo.png",
-      "tags": []
+      "tags": [],
+      "extensions": {
+        "serumV3Usdc": "Bn6NPyr6UzrFAwC4WmvPvDr2Vm8XSUnFykM2aQroedgn",
+        "serumV3Usdt": "4nCFQr8sahhhL4XJ7kngGFBmpkmyf3xLzemuMhn6mWTm",
+        "coingeckoId": "kin"
+      }
     },
     {
       "chainId": 101,
@@ -600,7 +710,10 @@
       "logoURI": "https://cdn.jsdelivr.net/gh/solana-labs/explorer/public/tokens/maps.svg",
       "tags": [],
       "extensions": {
-        "website": "https://maps.me/"
+        "website": "https://maps.me/",
+        "serumV3Usdc": "3A8XQRWXC7BjLpgLDDBhQJLT5yPCzS16cGYRKHkKxvYo",
+        "serumV3Usdt": "7cknqHAuGpfVXPtFoJpFvUjJ8wkmyEfbFusmwMfNy3FE",
+        "coingeckoId": "maps"
       }
     },
     {
@@ -612,7 +725,10 @@
       "logoURI": "https://cdn.jsdelivr.net/gh/nathanielparke/awesome-serum-markets/icons/oxy.svg",
       "tags": [],
       "extensions": {
-        "website": "https://www.oxygen.org/"
+        "website": "https://www.oxygen.org/",
+        "serumV3Usdt": "GKLev6UHeX1KSDCyo2bzyG6wqhByEzDBkmYTxEdmYJgB",
+        "serumV3Usdc": "GZ3WBFsqntmERPwumFEYgrX2B7J7G11MzNZAy7Hje27X",
+        "coingeckoId": "oxygen"
       }
     },
     {
@@ -624,7 +740,8 @@
       "logoURI": "https://cdn.jsdelivr.net/gh/solana-labs/explorer/public/tokens/brz.png",
       "tags": [],
       "extensions": {
-        "website": "https://brztoken.io/"
+        "website": "https://brztoken.io/",
+        "coingeckoId": "brz"
       }
     },
     {
@@ -638,7 +755,8 @@
         "stablecoin"
       ],
       "extensions": {
-        "website": "https://tether.to/"
+        "website": "https://tether.to/",
+        "coingeckoId": "tether"
       }
     },
     {
@@ -647,7 +765,7 @@
       "symbol": "xMARK",
       "name": "Standard",
       "decimals": 9,
-      "logoURI": "https://cdn.jsdelivr.net/gh/solana-labs/token-list/assets/mainnet/2oDxYGgTBmST4rc3yn1YtcSEck7ReDZ8wHWLqZAuNWXH/logo.png",
+      "logoURI": "https://cdn.jsdelivr.net/gh/solana-labs/token-list@main/assets/mainnet/2oDxYGgTBmST4rc3yn1YtcSEck7ReDZ8wHWLqZAuNWXH/logo.png",
       "tags": [
         "wrapped",
         "wormhole"
@@ -656,7 +774,8 @@
         "website": "https://benchmarkprotocol.finance/",
         "address": "0x36b679bd64ed73dbfd88909cdcb892cb66bd4cbb",
         "bridgeContract": "https://etherscan.io/address/0xf92cD566Ea4864356C5491c177A430C222d7e678",
-        "assetContract": "https://etherscan.io/address/0x36b679bd64ed73dbfd88909cdcb892cb66bd4cbb"
+        "assetContract": "https://etherscan.io/address/0x36b679bd64ed73dbfd88909cdcb892cb66bd4cbb",
+        "coingeckoId": "xmark"
       }
     },
     {
@@ -665,10 +784,12 @@
       "symbol": "RAY",
       "name": "Raydium",
       "decimals": 6,
-      "logoURI": "https://cdn.jsdelivr.net/gh/solana-labs/token-list/assets/mainnet/RVKd61ztZW9GUwhRbbLoYVRE5Xf1B2tVscKqwZqXgEr/logo.png",
+      "logoURI": "https://cdn.jsdelivr.net/gh/solana-labs/token-list@main/assets/mainnet/RVKd61ztZW9GUwhRbbLoYVRE5Xf1B2tVscKqwZqXgEr/logo.png",
       "tags": [],
       "extensions": {
-        "website": "https://raydium.io/"
+        "website": "https://raydium.io/",
+        "serumV3Usdt": "teE55QrL4a4QSfydR9dnHF97jgCfptpuigbb53Lo95g",
+        "coingeckoId": "raydium"
       }
     },
     {
@@ -677,7 +798,7 @@
       "symbol": "RAY-WUSDT",
       "name": "Raydium Legacy LP Token V2 (RAY-WUSDT)",
       "decimals": 6,
-      "logoURI": "https://cdn.jsdelivr.net/gh/solana-labs/token-list/assets/mainnet/RVKd61ztZW9GUwhRbbLoYVRE5Xf1B2tVscKqwZqXgEr/logo.png",
+      "logoURI": "https://cdn.jsdelivr.net/gh/solana-labs/token-list@main/assets/mainnet/RVKd61ztZW9GUwhRbbLoYVRE5Xf1B2tVscKqwZqXgEr/logo.png",
       "tags": [
         "lp-token"
       ],
@@ -691,7 +812,7 @@
       "symbol": "RAY-SOL",
       "name": "Raydium LP Token V2 (RAY-SOL)",
       "decimals": 6,
-      "logoURI": "https://cdn.jsdelivr.net/gh/solana-labs/token-list/assets/mainnet/RVKd61ztZW9GUwhRbbLoYVRE5Xf1B2tVscKqwZqXgEr/logo.png",
+      "logoURI": "https://cdn.jsdelivr.net/gh/solana-labs/token-list@main/assets/mainnet/RVKd61ztZW9GUwhRbbLoYVRE5Xf1B2tVscKqwZqXgEr/logo.png",
       "tags": [
         "lp-token"
       ],
@@ -705,7 +826,7 @@
       "symbol": "LINK-WUSDT",
       "name": "Raydium LP Token V2 (LINK-WUSDT)",
       "decimals": 6,
-      "logoURI": "https://cdn.jsdelivr.net/gh/solana-labs/token-list/assets/mainnet/RVKd61ztZW9GUwhRbbLoYVRE5Xf1B2tVscKqwZqXgEr/logo.png",
+      "logoURI": "https://cdn.jsdelivr.net/gh/solana-labs/token-list@main/assets/mainnet/RVKd61ztZW9GUwhRbbLoYVRE5Xf1B2tVscKqwZqXgEr/logo.png",
       "tags": [
         "lp-token"
       ],
@@ -719,7 +840,7 @@
       "symbol": "ETH-WUSDT",
       "name": "Raydium LP Token V2 (ETH-WUSDT)",
       "decimals": 6,
-      "logoURI": "https://cdn.jsdelivr.net/gh/solana-labs/token-list/assets/mainnet/RVKd61ztZW9GUwhRbbLoYVRE5Xf1B2tVscKqwZqXgEr/logo.png",
+      "logoURI": "https://cdn.jsdelivr.net/gh/solana-labs/token-list@main/assets/mainnet/RVKd61ztZW9GUwhRbbLoYVRE5Xf1B2tVscKqwZqXgEr/logo.png",
       "tags": [
         "lp-token"
       ],
@@ -733,7 +854,7 @@
       "symbol": "RAY-USDC",
       "name": "Raydium Legacy LP Token V2 (RAY-USDC)",
       "decimals": 6,
-      "logoURI": "https://cdn.jsdelivr.net/gh/solana-labs/token-list/assets/mainnet/RVKd61ztZW9GUwhRbbLoYVRE5Xf1B2tVscKqwZqXgEr/logo.png",
+      "logoURI": "https://cdn.jsdelivr.net/gh/solana-labs/token-list@main/assets/mainnet/RVKd61ztZW9GUwhRbbLoYVRE5Xf1B2tVscKqwZqXgEr/logo.png",
       "tags": [
         "lp-token"
       ],
@@ -747,7 +868,7 @@
       "symbol": "RAY-SRM",
       "name": "Raydium Legacy LP Token V2 (RAY-SRM)",
       "decimals": 6,
-      "logoURI": "https://cdn.jsdelivr.net/gh/solana-labs/token-list/assets/mainnet/RVKd61ztZW9GUwhRbbLoYVRE5Xf1B2tVscKqwZqXgEr/logo.png",
+      "logoURI": "https://cdn.jsdelivr.net/gh/solana-labs/token-list@main/assets/mainnet/RVKd61ztZW9GUwhRbbLoYVRE5Xf1B2tVscKqwZqXgEr/logo.png",
       "tags": [
         "lp-token"
       ],
@@ -761,7 +882,7 @@
       "symbol": "RAY-WUSDT",
       "name": "Raydium Legacy LP Token V3 (RAY-WUSDT)",
       "decimals": 6,
-      "logoURI": "https://cdn.jsdelivr.net/gh/solana-labs/token-list/assets/mainnet/RVKd61ztZW9GUwhRbbLoYVRE5Xf1B2tVscKqwZqXgEr/logo.png",
+      "logoURI": "https://cdn.jsdelivr.net/gh/solana-labs/token-list@main/assets/mainnet/RVKd61ztZW9GUwhRbbLoYVRE5Xf1B2tVscKqwZqXgEr/logo.png",
       "tags": [
         "lp-token"
       ],
@@ -775,7 +896,7 @@
       "symbol": "RAY-USDC",
       "name": "Raydium LP Token V3 (RAY-USDC)",
       "decimals": 6,
-      "logoURI": "https://cdn.jsdelivr.net/gh/solana-labs/token-list/assets/mainnet/RVKd61ztZW9GUwhRbbLoYVRE5Xf1B2tVscKqwZqXgEr/logo.png",
+      "logoURI": "https://cdn.jsdelivr.net/gh/solana-labs/token-list@main/assets/mainnet/RVKd61ztZW9GUwhRbbLoYVRE5Xf1B2tVscKqwZqXgEr/logo.png",
       "tags": [
         "lp-token"
       ],
@@ -789,7 +910,7 @@
       "symbol": "RAY-SRM",
       "name": "Raydium LP Token V3 (RAY-SRM)",
       "decimals": 6,
-      "logoURI": "https://cdn.jsdelivr.net/gh/solana-labs/token-list/assets/mainnet/RVKd61ztZW9GUwhRbbLoYVRE5Xf1B2tVscKqwZqXgEr/logo.png",
+      "logoURI": "https://cdn.jsdelivr.net/gh/solana-labs/token-list@main/assets/mainnet/RVKd61ztZW9GUwhRbbLoYVRE5Xf1B2tVscKqwZqXgEr/logo.png",
       "tags": [
         "lp-token"
       ],
@@ -803,7 +924,7 @@
       "symbol": "RAY-SOL",
       "name": "Raydium LP Token V3 (RAY-SOL)",
       "decimals": 6,
-      "logoURI": "https://cdn.jsdelivr.net/gh/solana-labs/token-list/assets/mainnet/RVKd61ztZW9GUwhRbbLoYVRE5Xf1B2tVscKqwZqXgEr/logo.png",
+      "logoURI": "https://cdn.jsdelivr.net/gh/solana-labs/token-list@main/assets/mainnet/RVKd61ztZW9GUwhRbbLoYVRE5Xf1B2tVscKqwZqXgEr/logo.png",
       "tags": [
         "lp-token"
       ],
@@ -817,7 +938,7 @@
       "symbol": "RAY-ETH",
       "name": "Raydium LP Token V3 (RAY-ETH)",
       "decimals": 6,
-      "logoURI": "https://cdn.jsdelivr.net/gh/solana-labs/token-list/assets/mainnet/RVKd61ztZW9GUwhRbbLoYVRE5Xf1B2tVscKqwZqXgEr/logo.png",
+      "logoURI": "https://cdn.jsdelivr.net/gh/solana-labs/token-list@main/assets/mainnet/RVKd61ztZW9GUwhRbbLoYVRE5Xf1B2tVscKqwZqXgEr/logo.png",
       "tags": [
         "lp-token"
       ],
@@ -831,7 +952,7 @@
       "symbol": "FIDA-RAY",
       "name": "Raydium Fusion LP Token V4 (FIDA-RAY)",
       "decimals": 6,
-      "logoURI": "https://cdn.jsdelivr.net/gh/solana-labs/token-list/assets/mainnet/RVKd61ztZW9GUwhRbbLoYVRE5Xf1B2tVscKqwZqXgEr/logo.png",
+      "logoURI": "https://cdn.jsdelivr.net/gh/solana-labs/token-list@main/assets/mainnet/RVKd61ztZW9GUwhRbbLoYVRE5Xf1B2tVscKqwZqXgEr/logo.png",
       "tags": [
         "lp-token"
       ],
@@ -845,7 +966,7 @@
       "symbol": "OXY-RAY",
       "name": "Raydium Fusion LP Token V4 (OXY-RAY)",
       "decimals": 6,
-      "logoURI": "https://cdn.jsdelivr.net/gh/solana-labs/token-list/assets/mainnet/RVKd61ztZW9GUwhRbbLoYVRE5Xf1B2tVscKqwZqXgEr/logo.png",
+      "logoURI": "https://cdn.jsdelivr.net/gh/solana-labs/token-list@main/assets/mainnet/RVKd61ztZW9GUwhRbbLoYVRE5Xf1B2tVscKqwZqXgEr/logo.png",
       "tags": [
         "lp-token"
       ],
@@ -859,7 +980,7 @@
       "symbol": "MAPS-RAY",
       "name": "Raydium Fusion LP Token V4 (MAPS-RAY)",
       "decimals": 6,
-      "logoURI": "https://cdn.jsdelivr.net/gh/solana-labs/token-list/assets/mainnet/RVKd61ztZW9GUwhRbbLoYVRE5Xf1B2tVscKqwZqXgEr/logo.png",
+      "logoURI": "https://cdn.jsdelivr.net/gh/solana-labs/token-list@main/assets/mainnet/RVKd61ztZW9GUwhRbbLoYVRE5Xf1B2tVscKqwZqXgEr/logo.png",
       "tags": [
         "lp-token"
       ],
@@ -873,7 +994,7 @@
       "symbol": "KIN-RAY",
       "name": "Raydium Legacy Fusion LP Token V4 (KIN-RAY)",
       "decimals": 6,
-      "logoURI": "https://cdn.jsdelivr.net/gh/solana-labs/token-list/assets/mainnet/RVKd61ztZW9GUwhRbbLoYVRE5Xf1B2tVscKqwZqXgEr/logo.png",
+      "logoURI": "https://cdn.jsdelivr.net/gh/solana-labs/token-list@main/assets/mainnet/RVKd61ztZW9GUwhRbbLoYVRE5Xf1B2tVscKqwZqXgEr/logo.png",
       "tags": [
         "lp-token"
       ],
@@ -887,7 +1008,7 @@
       "symbol": "RAY-USDT",
       "name": "Raydium LP Token V4 (RAY-USDT)",
       "decimals": 6,
-      "logoURI": "https://cdn.jsdelivr.net/gh/solana-labs/token-list/assets/mainnet/RVKd61ztZW9GUwhRbbLoYVRE5Xf1B2tVscKqwZqXgEr/logo.png",
+      "logoURI": "https://cdn.jsdelivr.net/gh/solana-labs/token-list@main/assets/mainnet/RVKd61ztZW9GUwhRbbLoYVRE5Xf1B2tVscKqwZqXgEr/logo.png",
       "tags": [
         "lp-token"
       ],
@@ -901,7 +1022,7 @@
       "symbol": "SOL-USDC",
       "name": "Raydium LP Token V4 (SOL-USDC)",
       "decimals": 9,
-      "logoURI": "https://cdn.jsdelivr.net/gh/solana-labs/token-list/assets/mainnet/RVKd61ztZW9GUwhRbbLoYVRE5Xf1B2tVscKqwZqXgEr/logo.png",
+      "logoURI": "https://cdn.jsdelivr.net/gh/solana-labs/token-list@main/assets/mainnet/RVKd61ztZW9GUwhRbbLoYVRE5Xf1B2tVscKqwZqXgEr/logo.png",
       "tags": [
         "lp-token"
       ],
@@ -915,7 +1036,7 @@
       "symbol": "YFI-USDC",
       "name": "Raydium LP Token V4 (YFI-USDC)",
       "decimals": 6,
-      "logoURI": "https://cdn.jsdelivr.net/gh/solana-labs/token-list/assets/mainnet/RVKd61ztZW9GUwhRbbLoYVRE5Xf1B2tVscKqwZqXgEr/logo.png",
+      "logoURI": "https://cdn.jsdelivr.net/gh/solana-labs/token-list@main/assets/mainnet/RVKd61ztZW9GUwhRbbLoYVRE5Xf1B2tVscKqwZqXgEr/logo.png",
       "tags": [
         "lp-token"
       ],
@@ -929,7 +1050,7 @@
       "symbol": "SRM-USDC",
       "name": "Raydium LP Token V4 (SRM-USDC)",
       "decimals": 6,
-      "logoURI": "https://cdn.jsdelivr.net/gh/solana-labs/token-list/assets/mainnet/RVKd61ztZW9GUwhRbbLoYVRE5Xf1B2tVscKqwZqXgEr/logo.png",
+      "logoURI": "https://cdn.jsdelivr.net/gh/solana-labs/token-list@main/assets/mainnet/RVKd61ztZW9GUwhRbbLoYVRE5Xf1B2tVscKqwZqXgEr/logo.png",
       "tags": [
         "lp-token"
       ],
@@ -943,7 +1064,7 @@
       "symbol": "FTT-USDC",
       "name": "Raydium LP Token V4 (FTT-USDC)",
       "decimals": 6,
-      "logoURI": "https://cdn.jsdelivr.net/gh/solana-labs/token-list/assets/mainnet/RVKd61ztZW9GUwhRbbLoYVRE5Xf1B2tVscKqwZqXgEr/logo.png",
+      "logoURI": "https://cdn.jsdelivr.net/gh/solana-labs/token-list@main/assets/mainnet/RVKd61ztZW9GUwhRbbLoYVRE5Xf1B2tVscKqwZqXgEr/logo.png",
       "tags": [
         "lp-token"
       ],
@@ -957,7 +1078,7 @@
       "symbol": "BTC-USDC",
       "name": "Raydium LP Token V4 (BTC-USDC)",
       "decimals": 6,
-      "logoURI": "https://cdn.jsdelivr.net/gh/solana-labs/token-list/assets/mainnet/RVKd61ztZW9GUwhRbbLoYVRE5Xf1B2tVscKqwZqXgEr/logo.png",
+      "logoURI": "https://cdn.jsdelivr.net/gh/solana-labs/token-list@main/assets/mainnet/RVKd61ztZW9GUwhRbbLoYVRE5Xf1B2tVscKqwZqXgEr/logo.png",
       "tags": [
         "lp-token"
       ],
@@ -971,7 +1092,7 @@
       "symbol": "SUSHI-USDC",
       "name": "Raydium LP Token V4 (SUSHI-USDC)",
       "decimals": 6,
-      "logoURI": "https://cdn.jsdelivr.net/gh/solana-labs/token-list/assets/mainnet/RVKd61ztZW9GUwhRbbLoYVRE5Xf1B2tVscKqwZqXgEr/logo.png",
+      "logoURI": "https://cdn.jsdelivr.net/gh/solana-labs/token-list@main/assets/mainnet/RVKd61ztZW9GUwhRbbLoYVRE5Xf1B2tVscKqwZqXgEr/logo.png",
       "tags": [
         "lp-token"
       ],
@@ -985,7 +1106,7 @@
       "symbol": "TOMO-USDC",
       "name": "Raydium LP Token V4 (TOMO-USDC)",
       "decimals": 6,
-      "logoURI": "https://cdn.jsdelivr.net/gh/solana-labs/token-list/assets/mainnet/RVKd61ztZW9GUwhRbbLoYVRE5Xf1B2tVscKqwZqXgEr/logo.png",
+      "logoURI": "https://cdn.jsdelivr.net/gh/solana-labs/token-list@main/assets/mainnet/RVKd61ztZW9GUwhRbbLoYVRE5Xf1B2tVscKqwZqXgEr/logo.png",
       "tags": [
         "lp-token"
       ],
@@ -999,7 +1120,7 @@
       "symbol": "LINK-USDC",
       "name": "Raydium LP Token V4 (LINK-USDC)",
       "decimals": 6,
-      "logoURI": "https://cdn.jsdelivr.net/gh/solana-labs/token-list/assets/mainnet/RVKd61ztZW9GUwhRbbLoYVRE5Xf1B2tVscKqwZqXgEr/logo.png",
+      "logoURI": "https://cdn.jsdelivr.net/gh/solana-labs/token-list@main/assets/mainnet/RVKd61ztZW9GUwhRbbLoYVRE5Xf1B2tVscKqwZqXgEr/logo.png",
       "tags": [
         "lp-token"
       ],
@@ -1013,7 +1134,7 @@
       "symbol": "ETH-USDC",
       "name": "Raydium LP Token V4 (ETH-USDC)",
       "decimals": 6,
-      "logoURI": "https://cdn.jsdelivr.net/gh/solana-labs/token-list/assets/mainnet/RVKd61ztZW9GUwhRbbLoYVRE5Xf1B2tVscKqwZqXgEr/logo.png",
+      "logoURI": "https://cdn.jsdelivr.net/gh/solana-labs/token-list@main/assets/mainnet/RVKd61ztZW9GUwhRbbLoYVRE5Xf1B2tVscKqwZqXgEr/logo.png",
       "tags": [
         "lp-token"
       ],
@@ -1027,7 +1148,7 @@
       "symbol": "COPE-USDC",
       "name": "Raydium Fusion LP Token V4 (COPE-USDC)",
       "decimals": 0,
-      "logoURI": "https://cdn.jsdelivr.net/gh/solana-labs/token-list/assets/mainnet/RVKd61ztZW9GUwhRbbLoYVRE5Xf1B2tVscKqwZqXgEr/logo.png",
+      "logoURI": "https://cdn.jsdelivr.net/gh/solana-labs/token-list@main/assets/mainnet/RVKd61ztZW9GUwhRbbLoYVRE5Xf1B2tVscKqwZqXgEr/logo.png",
       "tags": [
         "lp-token"
       ],
@@ -1041,7 +1162,7 @@
       "symbol": "SOL-USDT",
       "name": "Raydium LP Token V4 (SOL-USDT)",
       "decimals": 9,
-      "logoURI": "https://cdn.jsdelivr.net/gh/solana-labs/token-list/assets/mainnet/RVKd61ztZW9GUwhRbbLoYVRE5Xf1B2tVscKqwZqXgEr/logo.png",
+      "logoURI": "https://cdn.jsdelivr.net/gh/solana-labs/token-list@main/assets/mainnet/RVKd61ztZW9GUwhRbbLoYVRE5Xf1B2tVscKqwZqXgEr/logo.png",
       "tags": [
         "lp-token"
       ],
@@ -1055,7 +1176,7 @@
       "symbol": "YFI-USDT",
       "name": "Raydium LP Token V4 (YFI-USDT)",
       "decimals": 6,
-      "logoURI": "https://cdn.jsdelivr.net/gh/solana-labs/token-list/assets/mainnet/RVKd61ztZW9GUwhRbbLoYVRE5Xf1B2tVscKqwZqXgEr/logo.png",
+      "logoURI": "https://cdn.jsdelivr.net/gh/solana-labs/token-list@main/assets/mainnet/RVKd61ztZW9GUwhRbbLoYVRE5Xf1B2tVscKqwZqXgEr/logo.png",
       "tags": [
         "lp-token"
       ],
@@ -1069,7 +1190,7 @@
       "symbol": "SRM-USDT",
       "name": "Raydium LP Token V4 (SRM-USDT)",
       "decimals": 6,
-      "logoURI": "https://cdn.jsdelivr.net/gh/solana-labs/token-list/assets/mainnet/RVKd61ztZW9GUwhRbbLoYVRE5Xf1B2tVscKqwZqXgEr/logo.png",
+      "logoURI": "https://cdn.jsdelivr.net/gh/solana-labs/token-list@main/assets/mainnet/RVKd61ztZW9GUwhRbbLoYVRE5Xf1B2tVscKqwZqXgEr/logo.png",
       "tags": [
         "lp-token"
       ],
@@ -1083,7 +1204,7 @@
       "symbol": "FTT-USDT",
       "name": "Raydium LP Token V4 (FTT-USDT)",
       "decimals": 6,
-      "logoURI": "https://cdn.jsdelivr.net/gh/solana-labs/token-list/assets/mainnet/RVKd61ztZW9GUwhRbbLoYVRE5Xf1B2tVscKqwZqXgEr/logo.png",
+      "logoURI": "https://cdn.jsdelivr.net/gh/solana-labs/token-list@main/assets/mainnet/RVKd61ztZW9GUwhRbbLoYVRE5Xf1B2tVscKqwZqXgEr/logo.png",
       "tags": [
         "lp-token"
       ],
@@ -1097,7 +1218,7 @@
       "symbol": "BTC-USDT",
       "name": "Raydium LP Token V4 (BTC-USDT)",
       "decimals": 6,
-      "logoURI": "https://cdn.jsdelivr.net/gh/solana-labs/token-list/assets/mainnet/RVKd61ztZW9GUwhRbbLoYVRE5Xf1B2tVscKqwZqXgEr/logo.png",
+      "logoURI": "https://cdn.jsdelivr.net/gh/solana-labs/token-list@main/assets/mainnet/RVKd61ztZW9GUwhRbbLoYVRE5Xf1B2tVscKqwZqXgEr/logo.png",
       "tags": [
         "lp-token"
       ],
@@ -1111,7 +1232,7 @@
       "symbol": "SUSHI-USDT",
       "name": "Raydium LP Token V4 (SUSHI-USDT)",
       "decimals": 6,
-      "logoURI": "https://cdn.jsdelivr.net/gh/solana-labs/token-list/assets/mainnet/RVKd61ztZW9GUwhRbbLoYVRE5Xf1B2tVscKqwZqXgEr/logo.png",
+      "logoURI": "https://cdn.jsdelivr.net/gh/solana-labs/token-list@main/assets/mainnet/RVKd61ztZW9GUwhRbbLoYVRE5Xf1B2tVscKqwZqXgEr/logo.png",
       "tags": [
         "lp-token"
       ],
@@ -1125,7 +1246,7 @@
       "symbol": "TOMO-USDT",
       "name": "Raydium LP Token V4 (TOMO-USDT)",
       "decimals": 6,
-      "logoURI": "https://cdn.jsdelivr.net/gh/solana-labs/token-list/assets/mainnet/RVKd61ztZW9GUwhRbbLoYVRE5Xf1B2tVscKqwZqXgEr/logo.png",
+      "logoURI": "https://cdn.jsdelivr.net/gh/solana-labs/token-list@main/assets/mainnet/RVKd61ztZW9GUwhRbbLoYVRE5Xf1B2tVscKqwZqXgEr/logo.png",
       "tags": [
         "lp-token"
       ],
@@ -1139,7 +1260,7 @@
       "symbol": "LINK-USDT",
       "name": "Raydium LP Token V4 (LINK-USDT)",
       "decimals": 6,
-      "logoURI": "https://cdn.jsdelivr.net/gh/solana-labs/token-list/assets/mainnet/RVKd61ztZW9GUwhRbbLoYVRE5Xf1B2tVscKqwZqXgEr/logo.png",
+      "logoURI": "https://cdn.jsdelivr.net/gh/solana-labs/token-list@main/assets/mainnet/RVKd61ztZW9GUwhRbbLoYVRE5Xf1B2tVscKqwZqXgEr/logo.png",
       "tags": [
         "lp-token"
       ],
@@ -1153,7 +1274,7 @@
       "symbol": "ETH-USDT",
       "name": "Raydium LP Token V4 (ETH-USDT)",
       "decimals": 6,
-      "logoURI": "https://cdn.jsdelivr.net/gh/solana-labs/token-list/assets/mainnet/RVKd61ztZW9GUwhRbbLoYVRE5Xf1B2tVscKqwZqXgEr/logo.png",
+      "logoURI": "https://cdn.jsdelivr.net/gh/solana-labs/token-list@main/assets/mainnet/RVKd61ztZW9GUwhRbbLoYVRE5Xf1B2tVscKqwZqXgEr/logo.png",
       "tags": [
         "lp-token"
       ],
@@ -1167,7 +1288,7 @@
       "symbol": "YFI-SRM",
       "name": "Raydium LP Token V4 (YFI-SRM)",
       "decimals": 6,
-      "logoURI": "https://cdn.jsdelivr.net/gh/solana-labs/token-list/assets/mainnet/RVKd61ztZW9GUwhRbbLoYVRE5Xf1B2tVscKqwZqXgEr/logo.png",
+      "logoURI": "https://cdn.jsdelivr.net/gh/solana-labs/token-list@main/assets/mainnet/RVKd61ztZW9GUwhRbbLoYVRE5Xf1B2tVscKqwZqXgEr/logo.png",
       "tags": [
         "lp-token"
       ],
@@ -1181,7 +1302,7 @@
       "symbol": "FTT-SRM",
       "name": "Raydium LP Token V4 (FTT-SRM)",
       "decimals": 6,
-      "logoURI": "https://cdn.jsdelivr.net/gh/solana-labs/token-list/assets/mainnet/RVKd61ztZW9GUwhRbbLoYVRE5Xf1B2tVscKqwZqXgEr/logo.png",
+      "logoURI": "https://cdn.jsdelivr.net/gh/solana-labs/token-list@main/assets/mainnet/RVKd61ztZW9GUwhRbbLoYVRE5Xf1B2tVscKqwZqXgEr/logo.png",
       "tags": [
         "lp-token"
       ],
@@ -1195,7 +1316,7 @@
       "symbol": "BTC-SRM",
       "name": "Raydium LP Token V4 (BTC-SRM)",
       "decimals": 6,
-      "logoURI": "https://cdn.jsdelivr.net/gh/solana-labs/token-list/assets/mainnet/RVKd61ztZW9GUwhRbbLoYVRE5Xf1B2tVscKqwZqXgEr/logo.png",
+      "logoURI": "https://cdn.jsdelivr.net/gh/solana-labs/token-list@main/assets/mainnet/RVKd61ztZW9GUwhRbbLoYVRE5Xf1B2tVscKqwZqXgEr/logo.png",
       "tags": [
         "lp-token"
       ],
@@ -1209,7 +1330,7 @@
       "symbol": "SUSHI-SRM",
       "name": "Raydium LP Token V4 (SUSHI-SRM)",
       "decimals": 6,
-      "logoURI": "https://cdn.jsdelivr.net/gh/solana-labs/token-list/assets/mainnet/RVKd61ztZW9GUwhRbbLoYVRE5Xf1B2tVscKqwZqXgEr/logo.png",
+      "logoURI": "https://cdn.jsdelivr.net/gh/solana-labs/token-list@main/assets/mainnet/RVKd61ztZW9GUwhRbbLoYVRE5Xf1B2tVscKqwZqXgEr/logo.png",
       "tags": [
         "lp-token"
       ],
@@ -1223,7 +1344,7 @@
       "symbol": "TOMO-SRM",
       "name": "Raydium LP Token V4 (TOMO-SRM)",
       "decimals": 6,
-      "logoURI": "https://cdn.jsdelivr.net/gh/solana-labs/token-list/assets/mainnet/RVKd61ztZW9GUwhRbbLoYVRE5Xf1B2tVscKqwZqXgEr/logo.png",
+      "logoURI": "https://cdn.jsdelivr.net/gh/solana-labs/token-list@main/assets/mainnet/RVKd61ztZW9GUwhRbbLoYVRE5Xf1B2tVscKqwZqXgEr/logo.png",
       "tags": [
         "lp-token"
       ],
@@ -1237,7 +1358,7 @@
       "symbol": "LINK-SRM",
       "name": "Raydium LP Token V4 (LINK-SRM)",
       "decimals": 6,
-      "logoURI": "https://cdn.jsdelivr.net/gh/solana-labs/token-list/assets/mainnet/RVKd61ztZW9GUwhRbbLoYVRE5Xf1B2tVscKqwZqXgEr/logo.png",
+      "logoURI": "https://cdn.jsdelivr.net/gh/solana-labs/token-list@main/assets/mainnet/RVKd61ztZW9GUwhRbbLoYVRE5Xf1B2tVscKqwZqXgEr/logo.png",
       "tags": [
         "lp-token"
       ],
@@ -1251,7 +1372,7 @@
       "symbol": "ETH-SRM",
       "name": "Raydium LP Token V4 (ETH-SRM)",
       "decimals": 6,
-      "logoURI": "https://cdn.jsdelivr.net/gh/solana-labs/token-list/assets/mainnet/RVKd61ztZW9GUwhRbbLoYVRE5Xf1B2tVscKqwZqXgEr/logo.png",
+      "logoURI": "https://cdn.jsdelivr.net/gh/solana-labs/token-list@main/assets/mainnet/RVKd61ztZW9GUwhRbbLoYVRE5Xf1B2tVscKqwZqXgEr/logo.png",
       "tags": [
         "lp-token"
       ],
@@ -1265,7 +1386,7 @@
       "symbol": "SRM-SOL",
       "name": "Raydium LP Token V4 (SRM-SOL)",
       "decimals": 6,
-      "logoURI": "https://cdn.jsdelivr.net/gh/solana-labs/token-list/assets/mainnet/RVKd61ztZW9GUwhRbbLoYVRE5Xf1B2tVscKqwZqXgEr/logo.png",
+      "logoURI": "https://cdn.jsdelivr.net/gh/solana-labs/token-list@main/assets/mainnet/RVKd61ztZW9GUwhRbbLoYVRE5Xf1B2tVscKqwZqXgEr/logo.png",
       "tags": [
         "lp-token"
       ],
@@ -1645,7 +1766,8 @@
       "logoURI": "https://cdn.jsdelivr.net/gh/bitsongofficial/assets/logo_128x128.png",
       "tags": [],
       "extensions": {
-        "website": "https://bitsong.io/"
+        "website": "https://bitsong.io/",
+        "coingeckoId": "bitsong"
       }
     },
     {
@@ -1658,7 +1780,10 @@
       "tags": [
         "leveraged",
         "bear"
-      ]
+      ],
+      "extensions": {
+        "coingeckoId": "3x-short-eos-token"
+      }
     },
     {
       "chainId": 101,
@@ -1670,7 +1795,10 @@
       "tags": [
         "leveraged",
         "bull"
-      ]
+      ],
+      "extensions": {
+        "coingeckoId": "3x-long-eos-token"
+      }
     },
     {
       "chainId": 101,
@@ -1682,7 +1810,10 @@
       "tags": [
         "leveraged",
         "bear"
-      ]
+      ],
+      "extensions": {
+        "coingeckoId": "3x-short-bnb-token"
+      }
     },
     {
       "chainId": 101,
@@ -1694,7 +1825,10 @@
       "tags": [
         "leveraged",
         "bull"
-      ]
+      ],
+      "extensions": {
+        "coingeckoId": "3x-long-bnb-token"
+      }
     },
     {
       "chainId": 101,
@@ -1706,7 +1840,10 @@
       "tags": [
         "leveraged",
         "bull"
-      ]
+      ],
+      "extensions": {
+        "coingeckoId": "3x-long-bitcoin-sv-token"
+      }
     },
     {
       "chainId": 101,
@@ -1718,7 +1855,10 @@
       "tags": [
         "leveraged",
         "bear"
-      ]
+      ],
+      "extensions": {
+        "coingeckoId": "3x-short-bitcoin-sv-token"
+      }
     },
     {
       "chainId": 101,
@@ -1730,7 +1870,10 @@
       "tags": [
         "leveraged",
         "bear"
-      ]
+      ],
+      "extensions": {
+        "coingeckoId": "3x-short-litecoin-token"
+      }
     },
     {
       "chainId": 101,
@@ -1742,7 +1885,10 @@
       "tags": [
         "leveraged",
         "bull"
-      ]
+      ],
+      "extensions": {
+        "coingeckoId": "3x-long-litecoin-token"
+      }
     },
     {
       "chainId": 101,
@@ -1754,7 +1900,10 @@
       "tags": [
         "leveraged",
         "bull"
-      ]
+      ],
+      "extensions": {
+        "coingeckoId": "3x-long-bitcoin-token"
+      }
     },
     {
       "chainId": 101,
@@ -1766,7 +1915,10 @@
       "tags": [
         "leveraged",
         "bear"
-      ]
+      ],
+      "extensions": {
+        "coingeckoId": "3x-short-bitcoin-token"
+      }
     },
     {
       "chainId": 101,
@@ -1778,7 +1930,10 @@
       "tags": [
         "leveraged",
         "bear"
-      ]
+      ],
+      "extensions": {
+        "coingeckoId": "3x-short-bitcoin-cash-token"
+      }
     },
     {
       "chainId": 101,
@@ -1790,7 +1945,10 @@
       "tags": [
         "leveraged",
         "bull"
-      ]
+      ],
+      "extensions": {
+        "coingeckoId": "3x-long-bitcoin-cash-token"
+      }
     },
     {
       "chainId": 101,
@@ -1802,7 +1960,10 @@
       "tags": [
         "leveraged",
         "bull"
-      ]
+      ],
+      "extensions": {
+        "coingeckoId": "3x-long-ethereum-token"
+      }
     },
     {
       "chainId": 101,
@@ -1814,7 +1975,10 @@
       "tags": [
         "leveraged",
         "bear"
-      ]
+      ],
+      "extensions": {
+        "coingeckoId": "3x-short-ethereum-token"
+      }
     },
     {
       "chainId": 101,
@@ -1826,7 +1990,10 @@
       "tags": [
         "leveraged",
         "bull"
-      ]
+      ],
+      "extensions": {
+        "coingeckoId": "3x-long-altcoin-index-token"
+      }
     },
     {
       "chainId": 101,
@@ -1838,7 +2005,10 @@
       "tags": [
         "leveraged",
         "bear"
-      ]
+      ],
+      "extensions": {
+        "coingeckoId": "3x-short-altcoin-index-token"
+      }
     },
     {
       "chainId": 101,
@@ -1850,7 +2020,10 @@
       "tags": [
         "leveraged",
         "bull"
-      ]
+      ],
+      "extensions": {
+        "coingeckoId": "3x-long-shitcoin-index-token"
+      }
     },
     {
       "chainId": 101,
@@ -1862,7 +2035,10 @@
       "tags": [
         "leveraged",
         "bear"
-      ]
+      ],
+      "extensions": {
+        "coingeckoId": "3x-short-shitcoin-index-token"
+      }
     },
     {
       "chainId": 101,
@@ -1874,7 +2050,10 @@
       "tags": [
         "leveraged",
         "bull"
-      ]
+      ],
+      "extensions": {
+        "coingeckoId": "3x-long-midcap-index-token"
+      }
     },
     {
       "chainId": 101,
@@ -1886,7 +2065,10 @@
       "tags": [
         "leveraged",
         "bear"
-      ]
+      ],
+      "extensions": {
+        "coingeckoId": "3x-short-midcap-index-token"
+      }
     },
     {
       "chainId": 101,
@@ -1898,7 +2080,10 @@
       "tags": [
         "leveraged",
         "bear"
-      ]
+      ],
+      "extensions": {
+        "coingeckoId": "3x-short-chainlink-token"
+      }
     },
     {
       "chainId": 101,
@@ -1910,7 +2095,10 @@
       "tags": [
         "leveraged",
         "bull"
-      ]
+      ],
+      "extensions": {
+        "coingeckoId": "3x-long-chainlink-token"
+      }
     },
     {
       "chainId": 101,
@@ -1922,7 +2110,10 @@
       "tags": [
         "leveraged",
         "bull"
-      ]
+      ],
+      "extensions": {
+        "coingeckoId": "3x-long-xrp-token"
+      }
     },
     {
       "chainId": 101,
@@ -1934,16 +2125,10 @@
       "tags": [
         "leveraged",
         "bear"
-      ]
-    },
-    {
-      "chainId": 101,
-      "address": "4pk3pf9nJDN1im1kNwWJN1ThjE8pCYCTexXYGyFjqKVf",
-      "name": "ODOP",
-      "symbol": "ODOP",
-      "decimals": 6,
-      "logoURI": "",
-      "tags": []
+      ],
+      "extensions": {
+        "coingeckoId": "3x-short-xrp-token"
+      }
     },
     {
       "chainId": 101,
@@ -1952,7 +2137,10 @@
       "symbol": "BVOL",
       "decimals": 6,
       "logoURI": "",
-      "tags": []
+      "tags": [],
+      "extensions": {
+        "coingeckoId": "1x-long-btc-implied-volatility-token"
+      }
     },
     {
       "chainId": 101,
@@ -1961,7 +2149,10 @@
       "symbol": "IBVOL",
       "decimals": 6,
       "logoURI": "",
-      "tags": []
+      "tags": [],
+      "extensions": {
+        "coingeckoId": "1x-short-btc-implied-volatility"
+      }
     },
     {
       "chainId": 101,
@@ -1970,7 +2161,11 @@
       "symbol": "AAVE",
       "decimals": 6,
       "logoURI": "https://cdn.jsdelivr.net/gh/trustwallet/assets@master/blockchains/ethereum/assets/0x7Fc66500c84A76Ad7e9c93437bFc5Ac33E2DDaE9/logo.png",
-      "tags": []
+      "tags": [],
+      "extensions": {
+        "serumV3Usdt": "6bxuB5N3bt3qW8UnPNLgMMzDq5sEH8pFmYJYGgzvE11V",
+        "coingeckoId": "aave"
+      }
     },
     {
       "chainId": 101,
@@ -1988,7 +2183,10 @@
       "symbol": "SECO",
       "decimals": 6,
       "logoURI": "",
-      "tags": []
+      "tags": [],
+      "extensions": {
+        "coingeckoId": "serum-ecosystem-token"
+      }
     },
     {
       "chainId": 101,
@@ -1997,7 +2195,10 @@
       "symbol": "HOLY",
       "decimals": 6,
       "logoURI": "",
-      "tags": []
+      "tags": [],
+      "extensions": {
+        "coingeckoId": "holy-trinity"
+      }
     },
     {
       "chainId": 101,
@@ -2006,7 +2207,11 @@
       "symbol": "TRYB",
       "decimals": 6,
       "logoURI": "",
-      "tags": []
+      "tags": [],
+      "extensions": {
+        "serumV3Usdt": "AADohBGxvf7bvixs2HKC3dG2RuU3xpZDwaTzYFJThM8U",
+        "coingeckoId": "bilira"
+      }
     },
     {
       "chainId": 101,
@@ -2018,7 +2223,10 @@
       "tags": [
         "leveraged",
         "bull"
-      ]
+      ],
+      "extensions": {
+        "coingeckoId": "3x-long-dogecoin-token"
+      }
     },
     {
       "chainId": 101,
@@ -2051,7 +2259,10 @@
       "symbol": "PERP",
       "decimals": 6,
       "logoURI": "",
-      "tags": []
+      "tags": [],
+      "extensions": {
+        "coingeckoId": "perpetual-protocol"
+      }
     },
     {
       "chainId": 101,
@@ -2059,7 +2270,7 @@
       "symbol": "RAYPOOL",
       "name": "Bonfida Ray Pool",
       "decimals": 6,
-      "logoURI": "https://cdn.jsdelivr.net/gh/solana-labs/token-list/assets/mainnet/RVKd61ztZW9GUwhRbbLoYVRE5Xf1B2tVscKqwZqXgEr/logo.png",
+      "logoURI": "https://cdn.jsdelivr.net/gh/solana-labs/token-list@main/assets/mainnet/RVKd61ztZW9GUwhRbbLoYVRE5Xf1B2tVscKqwZqXgEr/logo.png",
       "tags": [],
       "extensions": {
         "website": "https://bonfida.com/"
@@ -2079,7 +2290,26 @@
       "extensions": {
         "address": "0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2",
         "bridgeContract": "https://etherscan.io/address/0xf92cD566Ea4864356C5491c177A430C222d7e678",
-        "assetContract": "https://etherscan.io/address/0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2"
+        "assetContract": "https://etherscan.io/address/0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2",
+        "coingeckoId": "weth"
+      }
+    },
+    {
+      "chainId": 101,
+      "address": "GbBWwtYTMPis4VHb8MrBbdibPhn28TSrLB53KvUmb7Gi",
+      "symbol": "wFTT",
+      "name": "Wrapped FTT (Wormhole)",
+      "decimals": 9,
+      "logoURI": "https://cdn.jsdelivr.net/gh/solana-labs/token-list@main/assets/mainnet/GbBWwtYTMPis4VHb8MrBbdibPhn28TSrLB53KvUmb7Gi/logo.webp",
+      "tags": [
+        "wrapped",
+        "wormhole"
+      ],
+      "extensions": {
+        "address": "0x50d1c9771902476076ecfc8b2a83ad6b9355a4c9",
+        "bridgeContract": "https://etherscan.io/address/0xf92cD566Ea4864356C5491c177A430C222d7e678",
+        "assetContract": "https://etherscan.io/address/0x50d1c9771902476076ecfc8b2a83ad6b9355a4c9",
+        "coingeckoId": "ftx-token"
       }
     },
     {
@@ -2096,7 +2326,8 @@
       "extensions": {
         "address": "0x0000000000085d4780B73119b644AE5ecd22b376",
         "bridgeContract": "https://etherscan.io/address/0xf92cD566Ea4864356C5491c177A430C222d7e678",
-        "assetContract": "https://etherscan.io/address/0x0000000000085d4780B73119b644AE5ecd22b376"
+        "assetContract": "https://etherscan.io/address/0x0000000000085d4780B73119b644AE5ecd22b376",
+        "coingeckoId": "true-usd"
       }
     },
     {
@@ -2113,7 +2344,8 @@
       "extensions": {
         "address": "0x0000000000095413afC295d19EDeb1Ad7B71c952",
         "bridgeContract": "https://etherscan.io/address/0xf92cD566Ea4864356C5491c177A430C222d7e678",
-        "assetContract": "https://etherscan.io/address/0x0000000000095413afC295d19EDeb1Ad7B71c952"
+        "assetContract": "https://etherscan.io/address/0x0000000000095413afC295d19EDeb1Ad7B71c952",
+        "coingeckoId": "tokenlon"
       }
     },
     {
@@ -2130,7 +2362,8 @@
       "extensions": {
         "address": "0x00a8b738E453fFd858a7edf03bcCfe20412f0Eb0",
         "bridgeContract": "https://etherscan.io/address/0xf92cD566Ea4864356C5491c177A430C222d7e678",
-        "assetContract": "https://etherscan.io/address/0x00a8b738E453fFd858a7edf03bcCfe20412f0Eb0"
+        "assetContract": "https://etherscan.io/address/0x00a8b738E453fFd858a7edf03bcCfe20412f0Eb0",
+        "coingeckoId": "allianceblock"
       }
     },
     {
@@ -2147,7 +2380,8 @@
       "extensions": {
         "address": "0x00c83aeCC790e8a4453e5dD3B0B4b3680501a7A7",
         "bridgeContract": "https://etherscan.io/address/0xf92cD566Ea4864356C5491c177A430C222d7e678",
-        "assetContract": "https://etherscan.io/address/0x00c83aeCC790e8a4453e5dD3B0B4b3680501a7A7"
+        "assetContract": "https://etherscan.io/address/0x00c83aeCC790e8a4453e5dD3B0B4b3680501a7A7",
+        "coingeckoId": "skale"
       }
     },
     {
@@ -2164,7 +2398,8 @@
       "extensions": {
         "address": "0x0202Be363B8a4820f3F4DE7FaF5224fF05943AB1",
         "bridgeContract": "https://etherscan.io/address/0xf92cD566Ea4864356C5491c177A430C222d7e678",
-        "assetContract": "https://etherscan.io/address/0x0202Be363B8a4820f3F4DE7FaF5224fF05943AB1"
+        "assetContract": "https://etherscan.io/address/0x0202Be363B8a4820f3F4DE7FaF5224fF05943AB1",
+        "coingeckoId": "unlend-finance"
       }
     },
     {
@@ -2181,7 +2416,8 @@
       "extensions": {
         "address": "0x0258F474786DdFd37ABCE6df6BBb1Dd5dfC4434a",
         "bridgeContract": "https://etherscan.io/address/0xf92cD566Ea4864356C5491c177A430C222d7e678",
-        "assetContract": "https://etherscan.io/address/0x0258F474786DdFd37ABCE6df6BBb1Dd5dfC4434a"
+        "assetContract": "https://etherscan.io/address/0x0258F474786DdFd37ABCE6df6BBb1Dd5dfC4434a",
+        "coingeckoId": "orion-protocol"
       }
     },
     {
@@ -2198,7 +2434,8 @@
       "extensions": {
         "address": "0x0488401c3F535193Fa8Df029d9fFe615A06E74E6",
         "bridgeContract": "https://etherscan.io/address/0xf92cD566Ea4864356C5491c177A430C222d7e678",
-        "assetContract": "https://etherscan.io/address/0x0488401c3F535193Fa8Df029d9fFe615A06E74E6"
+        "assetContract": "https://etherscan.io/address/0x0488401c3F535193Fa8Df029d9fFe615A06E74E6",
+        "coingeckoId": "sparkpoint"
       }
     },
     {
@@ -2215,7 +2452,8 @@
       "extensions": {
         "address": "0x04Fa0d235C4abf4BcF4787aF4CF447DE572eF828",
         "bridgeContract": "https://etherscan.io/address/0xf92cD566Ea4864356C5491c177A430C222d7e678",
-        "assetContract": "https://etherscan.io/address/0x04Fa0d235C4abf4BcF4787aF4CF447DE572eF828"
+        "assetContract": "https://etherscan.io/address/0x04Fa0d235C4abf4BcF4787aF4CF447DE572eF828",
+        "coingeckoId": "uma"
       }
     },
     {
@@ -2232,7 +2470,8 @@
       "extensions": {
         "address": "0x06A01a4d579479Dd5D884EBf61A31727A3d8D442",
         "bridgeContract": "https://etherscan.io/address/0xf92cD566Ea4864356C5491c177A430C222d7e678",
-        "assetContract": "https://etherscan.io/address/0x06A01a4d579479Dd5D884EBf61A31727A3d8D442"
+        "assetContract": "https://etherscan.io/address/0x06A01a4d579479Dd5D884EBf61A31727A3d8D442",
+        "coingeckoId": "smartkey"
       }
     },
     {
@@ -2249,7 +2488,8 @@
       "extensions": {
         "address": "0x09a3EcAFa817268f77BE1283176B946C4ff2E608",
         "bridgeContract": "https://etherscan.io/address/0xf92cD566Ea4864356C5491c177A430C222d7e678",
-        "assetContract": "https://etherscan.io/address/0x09a3EcAFa817268f77BE1283176B946C4ff2E608"
+        "assetContract": "https://etherscan.io/address/0x09a3EcAFa817268f77BE1283176B946C4ff2E608",
+        "coingeckoId": "mirror-protocol"
       }
     },
     {
@@ -2266,7 +2506,8 @@
       "extensions": {
         "address": "0x09e64c2B61a5f1690Ee6fbeD9baf5D6990F8dFd0",
         "bridgeContract": "https://etherscan.io/address/0xf92cD566Ea4864356C5491c177A430C222d7e678",
-        "assetContract": "https://etherscan.io/address/0x09e64c2B61a5f1690Ee6fbeD9baf5D6990F8dFd0"
+        "assetContract": "https://etherscan.io/address/0x09e64c2B61a5f1690Ee6fbeD9baf5D6990F8dFd0",
+        "coingeckoId": "growth-defi"
       }
     },
     {
@@ -2283,7 +2524,8 @@
       "extensions": {
         "address": "0x0Ae055097C6d159879521C384F1D2123D1f195e6",
         "bridgeContract": "https://etherscan.io/address/0xf92cD566Ea4864356C5491c177A430C222d7e678",
-        "assetContract": "https://etherscan.io/address/0x0Ae055097C6d159879521C384F1D2123D1f195e6"
+        "assetContract": "https://etherscan.io/address/0x0Ae055097C6d159879521C384F1D2123D1f195e6",
+        "coingeckoId": "xdai-stake"
       }
     },
     {
@@ -2300,7 +2542,8 @@
       "extensions": {
         "address": "0x0bc529c00C6401aEF6D220BE8C6Ea1667F6Ad93e",
         "bridgeContract": "https://etherscan.io/address/0xf92cD566Ea4864356C5491c177A430C222d7e678",
-        "assetContract": "https://etherscan.io/address/0x0bc529c00C6401aEF6D220BE8C6Ea1667F6Ad93e"
+        "assetContract": "https://etherscan.io/address/0x0bc529c00C6401aEF6D220BE8C6Ea1667F6Ad93e",
+        "coingeckoId": "yearn-finance"
       }
     },
     {
@@ -2317,7 +2560,8 @@
       "extensions": {
         "address": "0x0D8775F648430679A709E98d2b0Cb6250d2887EF",
         "bridgeContract": "https://etherscan.io/address/0xf92cD566Ea4864356C5491c177A430C222d7e678",
-        "assetContract": "https://etherscan.io/address/0x0D8775F648430679A709E98d2b0Cb6250d2887EF"
+        "assetContract": "https://etherscan.io/address/0x0D8775F648430679A709E98d2b0Cb6250d2887EF",
+        "coingeckoId": "basic-attention-token"
       }
     },
     {
@@ -2334,7 +2578,8 @@
       "extensions": {
         "address": "0x0F5D2fB29fb7d3CFeE444a200298f468908cC942",
         "bridgeContract": "https://etherscan.io/address/0xf92cD566Ea4864356C5491c177A430C222d7e678",
-        "assetContract": "https://etherscan.io/address/0x0F5D2fB29fb7d3CFeE444a200298f468908cC942"
+        "assetContract": "https://etherscan.io/address/0x0F5D2fB29fb7d3CFeE444a200298f468908cC942",
+        "coingeckoId": "decentraland"
       }
     },
     {
@@ -2351,7 +2596,8 @@
       "extensions": {
         "address": "0x0f7F961648aE6Db43C75663aC7E5414Eb79b5704",
         "bridgeContract": "https://etherscan.io/address/0xf92cD566Ea4864356C5491c177A430C222d7e678",
-        "assetContract": "https://etherscan.io/address/0x0f7F961648aE6Db43C75663aC7E5414Eb79b5704"
+        "assetContract": "https://etherscan.io/address/0x0f7F961648aE6Db43C75663aC7E5414Eb79b5704",
+        "coingeckoId": "xio"
       }
     },
     {
@@ -2368,7 +2614,8 @@
       "extensions": {
         "address": "0x0fF6ffcFDa92c53F615a4A75D982f399C989366b",
         "bridgeContract": "https://etherscan.io/address/0xf92cD566Ea4864356C5491c177A430C222d7e678",
-        "assetContract": "https://etherscan.io/address/0x0fF6ffcFDa92c53F615a4A75D982f399C989366b"
+        "assetContract": "https://etherscan.io/address/0x0fF6ffcFDa92c53F615a4A75D982f399C989366b",
+        "coingeckoId": "unilayer"
       }
     },
     {
@@ -2385,7 +2632,8 @@
       "extensions": {
         "address": "0x10Be9a8dAe441d276a5027936c3aADEd2d82bC15",
         "bridgeContract": "https://etherscan.io/address/0xf92cD566Ea4864356C5491c177A430C222d7e678",
-        "assetContract": "https://etherscan.io/address/0x10Be9a8dAe441d276a5027936c3aADEd2d82bC15"
+        "assetContract": "https://etherscan.io/address/0x10Be9a8dAe441d276a5027936c3aADEd2d82bC15",
+        "coingeckoId": "unimex-network"
       }
     },
     {
@@ -2402,7 +2650,8 @@
       "extensions": {
         "address": "0x111111111117dC0aa78b770fA6A738034120C302",
         "bridgeContract": "https://etherscan.io/address/0xf92cD566Ea4864356C5491c177A430C222d7e678",
-        "assetContract": "https://etherscan.io/address/0x111111111117dC0aa78b770fA6A738034120C302"
+        "assetContract": "https://etherscan.io/address/0x111111111117dC0aa78b770fA6A738034120C302",
+        "coingeckoId": "1inch"
       }
     },
     {
@@ -2419,7 +2668,8 @@
       "extensions": {
         "address": "0x1337DEF16F9B486fAEd0293eb623Dc8395dFE46a",
         "bridgeContract": "https://etherscan.io/address/0xf92cD566Ea4864356C5491c177A430C222d7e678",
-        "assetContract": "https://etherscan.io/address/0x1337DEF16F9B486fAEd0293eb623Dc8395dFE46a"
+        "assetContract": "https://etherscan.io/address/0x1337DEF16F9B486fAEd0293eb623Dc8395dFE46a",
+        "coingeckoId": "armor"
       }
     },
     {
@@ -2436,7 +2686,8 @@
       "extensions": {
         "address": "0x1337DEF18C680aF1f9f45cBcab6309562975b1dD",
         "bridgeContract": "https://etherscan.io/address/0xf92cD566Ea4864356C5491c177A430C222d7e678",
-        "assetContract": "https://etherscan.io/address/0x1337DEF18C680aF1f9f45cBcab6309562975b1dD"
+        "assetContract": "https://etherscan.io/address/0x1337DEF18C680aF1f9f45cBcab6309562975b1dD",
+        "coingeckoId": "armor-nxm"
       }
     },
     {
@@ -2453,7 +2704,8 @@
       "extensions": {
         "address": "0x1494CA1F11D487c2bBe4543E90080AeBa4BA3C2b",
         "bridgeContract": "https://etherscan.io/address/0xf92cD566Ea4864356C5491c177A430C222d7e678",
-        "assetContract": "https://etherscan.io/address/0x1494CA1F11D487c2bBe4543E90080AeBa4BA3C2b"
+        "assetContract": "https://etherscan.io/address/0x1494CA1F11D487c2bBe4543E90080AeBa4BA3C2b",
+        "coingeckoId": "defipulse-index"
       }
     },
     {
@@ -2470,7 +2722,8 @@
       "extensions": {
         "address": "0x152687Bc4A7FCC89049cF119F9ac3e5aCF2eE7ef",
         "bridgeContract": "https://etherscan.io/address/0xf92cD566Ea4864356C5491c177A430C222d7e678",
-        "assetContract": "https://etherscan.io/address/0x152687Bc4A7FCC89049cF119F9ac3e5aCF2eE7ef"
+        "assetContract": "https://etherscan.io/address/0x152687Bc4A7FCC89049cF119F9ac3e5aCF2eE7ef",
+        "coingeckoId": "deltahub-community"
       }
     },
     {
@@ -2487,7 +2740,8 @@
       "extensions": {
         "address": "0x16980b3B4a3f9D89E33311B5aa8f80303E5ca4F8",
         "bridgeContract": "https://etherscan.io/address/0xf92cD566Ea4864356C5491c177A430C222d7e678",
-        "assetContract": "https://etherscan.io/address/0x16980b3B4a3f9D89E33311B5aa8f80303E5ca4F8"
+        "assetContract": "https://etherscan.io/address/0x16980b3B4a3f9D89E33311B5aa8f80303E5ca4F8",
+        "coingeckoId": "kira-network"
       }
     },
     {
@@ -2521,7 +2775,8 @@
       "extensions": {
         "address": "0x17aC188e09A7890a1844E5E65471fE8b0CcFadF3",
         "bridgeContract": "https://etherscan.io/address/0xf92cD566Ea4864356C5491c177A430C222d7e678",
-        "assetContract": "https://etherscan.io/address/0x17aC188e09A7890a1844E5E65471fE8b0CcFadF3"
+        "assetContract": "https://etherscan.io/address/0x17aC188e09A7890a1844E5E65471fE8b0CcFadF3",
+        "coingeckoId": "cryptocurrency-top-10-tokens-index"
       }
     },
     {
@@ -2538,7 +2793,8 @@
       "extensions": {
         "address": "0x18aAA7115705e8be94bfFEBDE57Af9BFc265B998",
         "bridgeContract": "https://etherscan.io/address/0xf92cD566Ea4864356C5491c177A430C222d7e678",
-        "assetContract": "https://etherscan.io/address/0x18aAA7115705e8be94bfFEBDE57Af9BFc265B998"
+        "assetContract": "https://etherscan.io/address/0x18aAA7115705e8be94bfFEBDE57Af9BFc265B998",
+        "coingeckoId": "audius"
       }
     },
     {
@@ -2572,7 +2828,8 @@
       "extensions": {
         "address": "0x1b40183EFB4Dd766f11bDa7A7c3AD8982e998421",
         "bridgeContract": "https://etherscan.io/address/0xf92cD566Ea4864356C5491c177A430C222d7e678",
-        "assetContract": "https://etherscan.io/address/0x1b40183EFB4Dd766f11bDa7A7c3AD8982e998421"
+        "assetContract": "https://etherscan.io/address/0x1b40183EFB4Dd766f11bDa7A7c3AD8982e998421",
+        "coingeckoId": "vesper-finance"
       }
     },
     {
@@ -2589,7 +2846,8 @@
       "extensions": {
         "address": "0x1cEB5cB57C4D4E2b2433641b95Dd330A33185A44",
         "bridgeContract": "https://etherscan.io/address/0xf92cD566Ea4864356C5491c177A430C222d7e678",
-        "assetContract": "https://etherscan.io/address/0x1cEB5cB57C4D4E2b2433641b95Dd330A33185A44"
+        "assetContract": "https://etherscan.io/address/0x1cEB5cB57C4D4E2b2433641b95Dd330A33185A44",
+        "coingeckoId": "keep3rv1"
       }
     },
     {
@@ -2606,7 +2864,8 @@
       "extensions": {
         "address": "0x1dD80016e3d4ae146Ee2EBB484e8edD92dacC4ce",
         "bridgeContract": "https://etherscan.io/address/0xf92cD566Ea4864356C5491c177A430C222d7e678",
-        "assetContract": "https://etherscan.io/address/0x1dD80016e3d4ae146Ee2EBB484e8edD92dacC4ce"
+        "assetContract": "https://etherscan.io/address/0x1dD80016e3d4ae146Ee2EBB484e8edD92dacC4ce",
+        "coingeckoId": "lead-token"
       }
     },
     {
@@ -2623,7 +2882,8 @@
       "extensions": {
         "address": "0x1f9840a85d5aF5bf1D1762F925BDADdC4201F984",
         "bridgeContract": "https://etherscan.io/address/0xf92cD566Ea4864356C5491c177A430C222d7e678",
-        "assetContract": "https://etherscan.io/address/0x1f9840a85d5aF5bf1D1762F925BDADdC4201F984"
+        "assetContract": "https://etherscan.io/address/0x1f9840a85d5aF5bf1D1762F925BDADdC4201F984",
+        "coingeckoId": "uniswap"
       }
     },
     {
@@ -2640,7 +2900,8 @@
       "extensions": {
         "address": "0x2260FAC5E5542a773Aa44fBCfeDf7C193bc2C599",
         "bridgeContract": "https://etherscan.io/address/0xf92cD566Ea4864356C5491c177A430C222d7e678",
-        "assetContract": "https://etherscan.io/address/0x2260FAC5E5542a773Aa44fBCfeDf7C193bc2C599"
+        "assetContract": "https://etherscan.io/address/0x2260FAC5E5542a773Aa44fBCfeDf7C193bc2C599",
+        "coingeckoId": "wrapped-bitcoin"
       }
     },
     {
@@ -2657,7 +2918,8 @@
       "extensions": {
         "address": "0x226f7b842E0F0120b7E194D05432b3fd14773a9D",
         "bridgeContract": "https://etherscan.io/address/0xf92cD566Ea4864356C5491c177A430C222d7e678",
-        "assetContract": "https://etherscan.io/address/0x226f7b842E0F0120b7E194D05432b3fd14773a9D"
+        "assetContract": "https://etherscan.io/address/0x226f7b842E0F0120b7E194D05432b3fd14773a9D",
+        "coingeckoId": "union-protocol-governance-token"
       }
     },
     {
@@ -2674,7 +2936,8 @@
       "extensions": {
         "address": "0x23B608675a2B2fB1890d3ABBd85c5775c51691d5",
         "bridgeContract": "https://etherscan.io/address/0xf92cD566Ea4864356C5491c177A430C222d7e678",
-        "assetContract": "https://etherscan.io/address/0x23B608675a2B2fB1890d3ABBd85c5775c51691d5"
+        "assetContract": "https://etherscan.io/address/0x23B608675a2B2fB1890d3ABBd85c5775c51691d5",
+        "coingeckoId": "unisocks"
       }
     },
     {
@@ -2691,7 +2954,8 @@
       "extensions": {
         "address": "0x26CE25148832C04f3d7F26F32478a9fe55197166",
         "bridgeContract": "https://etherscan.io/address/0xf92cD566Ea4864356C5491c177A430C222d7e678",
-        "assetContract": "https://etherscan.io/address/0x26CE25148832C04f3d7F26F32478a9fe55197166"
+        "assetContract": "https://etherscan.io/address/0x26CE25148832C04f3d7F26F32478a9fe55197166",
+        "coingeckoId": "idextools"
       }
     },
     {
@@ -2708,7 +2972,8 @@
       "extensions": {
         "address": "0x2b591e99afE9f32eAA6214f7B7629768c40Eeb39",
         "bridgeContract": "https://etherscan.io/address/0xf92cD566Ea4864356C5491c177A430C222d7e678",
-        "assetContract": "https://etherscan.io/address/0x2b591e99afE9f32eAA6214f7B7629768c40Eeb39"
+        "assetContract": "https://etherscan.io/address/0x2b591e99afE9f32eAA6214f7B7629768c40Eeb39",
+        "coingeckoId": "hex"
       }
     },
     {
@@ -2725,7 +2990,8 @@
       "extensions": {
         "address": "0x2ba592F78dB6436527729929AAf6c908497cB200",
         "bridgeContract": "https://etherscan.io/address/0xf92cD566Ea4864356C5491c177A430C222d7e678",
-        "assetContract": "https://etherscan.io/address/0x2ba592F78dB6436527729929AAf6c908497cB200"
+        "assetContract": "https://etherscan.io/address/0x2ba592F78dB6436527729929AAf6c908497cB200",
+        "coingeckoId": "cream-2"
       }
     },
     {
@@ -2742,7 +3008,8 @@
       "extensions": {
         "address": "0x2e2f3246b6c65CCc4239c9Ee556EC143a7E5DE2c",
         "bridgeContract": "https://etherscan.io/address/0xf92cD566Ea4864356C5491c177A430C222d7e678",
-        "assetContract": "https://etherscan.io/address/0x2e2f3246b6c65CCc4239c9Ee556EC143a7E5DE2c"
+        "assetContract": "https://etherscan.io/address/0x2e2f3246b6c65CCc4239c9Ee556EC143a7E5DE2c",
+        "coingeckoId": "yfimobi"
       }
     },
     {
@@ -2759,7 +3026,8 @@
       "extensions": {
         "address": "0x2eDf094dB69d6Dcd487f1B3dB9febE2eeC0dd4c5",
         "bridgeContract": "https://etherscan.io/address/0xf92cD566Ea4864356C5491c177A430C222d7e678",
-        "assetContract": "https://etherscan.io/address/0x2eDf094dB69d6Dcd487f1B3dB9febE2eeC0dd4c5"
+        "assetContract": "https://etherscan.io/address/0x2eDf094dB69d6Dcd487f1B3dB9febE2eeC0dd4c5",
+        "coingeckoId": "zeroswap"
       }
     },
     {
@@ -2776,7 +3044,8 @@
       "extensions": {
         "address": "0x3383c5a8969Dc413bfdDc9656Eb80A1408E4bA20",
         "bridgeContract": "https://etherscan.io/address/0xf92cD566Ea4864356C5491c177A430C222d7e678",
-        "assetContract": "https://etherscan.io/address/0x3383c5a8969Dc413bfdDc9656Eb80A1408E4bA20"
+        "assetContract": "https://etherscan.io/address/0x3383c5a8969Dc413bfdDc9656Eb80A1408E4bA20",
+        "coingeckoId": "wrapped-anatha"
       }
     },
     {
@@ -2793,7 +3062,8 @@
       "extensions": {
         "address": "0x33D0568941C0C64ff7e0FB4fbA0B11BD37deEd9f",
         "bridgeContract": "https://etherscan.io/address/0xf92cD566Ea4864356C5491c177A430C222d7e678",
-        "assetContract": "https://etherscan.io/address/0x33D0568941C0C64ff7e0FB4fbA0B11BD37deEd9f"
+        "assetContract": "https://etherscan.io/address/0x33D0568941C0C64ff7e0FB4fbA0B11BD37deEd9f",
+        "coingeckoId": "ramp"
       }
     },
     {
@@ -2810,7 +3080,8 @@
       "extensions": {
         "address": "0x362bc847A3a9637d3af6624EeC853618a43ed7D2",
         "bridgeContract": "https://etherscan.io/address/0xf92cD566Ea4864356C5491c177A430C222d7e678",
-        "assetContract": "https://etherscan.io/address/0x362bc847A3a9637d3af6624EeC853618a43ed7D2"
+        "assetContract": "https://etherscan.io/address/0x362bc847A3a9637d3af6624EeC853618a43ed7D2",
+        "coingeckoId": "parsiq"
       }
     },
     {
@@ -2844,7 +3115,8 @@
       "extensions": {
         "address": "0x3845badAde8e6dFF049820680d1F14bD3903a5d0",
         "bridgeContract": "https://etherscan.io/address/0xf92cD566Ea4864356C5491c177A430C222d7e678",
-        "assetContract": "https://etherscan.io/address/0x3845badAde8e6dFF049820680d1F14bD3903a5d0"
+        "assetContract": "https://etherscan.io/address/0x3845badAde8e6dFF049820680d1F14bD3903a5d0",
+        "coingeckoId": "the-sandbox"
       }
     },
     {
@@ -2861,7 +3133,8 @@
       "extensions": {
         "address": "0x38e4adB44ef08F22F5B5b76A8f0c2d0dCbE7DcA1",
         "bridgeContract": "https://etherscan.io/address/0xf92cD566Ea4864356C5491c177A430C222d7e678",
-        "assetContract": "https://etherscan.io/address/0x38e4adB44ef08F22F5B5b76A8f0c2d0dCbE7DcA1"
+        "assetContract": "https://etherscan.io/address/0x38e4adB44ef08F22F5B5b76A8f0c2d0dCbE7DcA1",
+        "coingeckoId": "concentrated-voting-power"
       }
     },
     {
@@ -2878,7 +3151,8 @@
       "extensions": {
         "address": "0x408e41876cCCDC0F92210600ef50372656052a38",
         "bridgeContract": "https://etherscan.io/address/0xf92cD566Ea4864356C5491c177A430C222d7e678",
-        "assetContract": "https://etherscan.io/address/0x408e41876cCCDC0F92210600ef50372656052a38"
+        "assetContract": "https://etherscan.io/address/0x408e41876cCCDC0F92210600ef50372656052a38",
+        "coingeckoId": "republic-protocol"
       }
     },
     {
@@ -2895,7 +3169,8 @@
       "extensions": {
         "address": "0x40FD72257597aA14C7231A7B1aaa29Fce868F677",
         "bridgeContract": "https://etherscan.io/address/0xf92cD566Ea4864356C5491c177A430C222d7e678",
-        "assetContract": "https://etherscan.io/address/0x40FD72257597aA14C7231A7B1aaa29Fce868F677"
+        "assetContract": "https://etherscan.io/address/0x40FD72257597aA14C7231A7B1aaa29Fce868F677",
+        "coingeckoId": "sora"
       }
     },
     {
@@ -2912,7 +3187,8 @@
       "extensions": {
         "address": "0x419D0d8BdD9aF5e606Ae2232ed285Aff190E711b",
         "bridgeContract": "https://etherscan.io/address/0xf92cD566Ea4864356C5491c177A430C222d7e678",
-        "assetContract": "https://etherscan.io/address/0x419D0d8BdD9aF5e606Ae2232ed285Aff190E711b"
+        "assetContract": "https://etherscan.io/address/0x419D0d8BdD9aF5e606Ae2232ed285Aff190E711b",
+        "coingeckoId": "funfair"
       }
     },
     {
@@ -2929,7 +3205,8 @@
       "extensions": {
         "address": "0x429881672B9AE42b8EbA0E26cD9C73711b891Ca5",
         "bridgeContract": "https://etherscan.io/address/0xf92cD566Ea4864356C5491c177A430C222d7e678",
-        "assetContract": "https://etherscan.io/address/0x429881672B9AE42b8EbA0E26cD9C73711b891Ca5"
+        "assetContract": "https://etherscan.io/address/0x429881672B9AE42b8EbA0E26cD9C73711b891Ca5",
+        "coingeckoId": "pickle-finance"
       }
     },
     {
@@ -2946,7 +3223,8 @@
       "extensions": {
         "address": "0x45804880De22913dAFE09f4980848ECE6EcbAf78",
         "bridgeContract": "https://etherscan.io/address/0xf92cD566Ea4864356C5491c177A430C222d7e678",
-        "assetContract": "https://etherscan.io/address/0x45804880De22913dAFE09f4980848ECE6EcbAf78"
+        "assetContract": "https://etherscan.io/address/0x45804880De22913dAFE09f4980848ECE6EcbAf78",
+        "coingeckoId": "pax-gold"
       }
     },
     {
@@ -2963,7 +3241,8 @@
       "extensions": {
         "address": "0x4a220E6096B25EADb88358cb44068A3248254675",
         "bridgeContract": "https://etherscan.io/address/0xf92cD566Ea4864356C5491c177A430C222d7e678",
-        "assetContract": "https://etherscan.io/address/0x4a220E6096B25EADb88358cb44068A3248254675"
+        "assetContract": "https://etherscan.io/address/0x4a220E6096B25EADb88358cb44068A3248254675",
+        "coingeckoId": "quant-network"
       }
     },
     {
@@ -2980,7 +3259,8 @@
       "extensions": {
         "address": "0x4c11249814f11b9346808179Cf06e71ac328c1b5",
         "bridgeContract": "https://etherscan.io/address/0xf92cD566Ea4864356C5491c177A430C222d7e678",
-        "assetContract": "https://etherscan.io/address/0x4c11249814f11b9346808179Cf06e71ac328c1b5"
+        "assetContract": "https://etherscan.io/address/0x4c11249814f11b9346808179Cf06e71ac328c1b5",
+        "coingeckoId": "oraichain-token"
       }
     },
     {
@@ -2997,7 +3277,8 @@
       "extensions": {
         "address": "0x4C19596f5aAfF459fA38B0f7eD92F11AE6543784",
         "bridgeContract": "https://etherscan.io/address/0xf92cD566Ea4864356C5491c177A430C222d7e678",
-        "assetContract": "https://etherscan.io/address/0x4C19596f5aAfF459fA38B0f7eD92F11AE6543784"
+        "assetContract": "https://etherscan.io/address/0x4C19596f5aAfF459fA38B0f7eD92F11AE6543784",
+        "coingeckoId": "truefi"
       }
     },
     {
@@ -3014,7 +3295,8 @@
       "extensions": {
         "address": "0x4e352cF164E64ADCBad318C3a1e222E9EBa4Ce42",
         "bridgeContract": "https://etherscan.io/address/0xf92cD566Ea4864356C5491c177A430C222d7e678",
-        "assetContract": "https://etherscan.io/address/0x4e352cF164E64ADCBad318C3a1e222E9EBa4Ce42"
+        "assetContract": "https://etherscan.io/address/0x4e352cF164E64ADCBad318C3a1e222E9EBa4Ce42",
+        "coingeckoId": "mcdex"
       }
     },
     {
@@ -3031,7 +3313,8 @@
       "extensions": {
         "address": "0x4fE83213D56308330EC302a8BD641f1d0113A4Cc",
         "bridgeContract": "https://etherscan.io/address/0xf92cD566Ea4864356C5491c177A430C222d7e678",
-        "assetContract": "https://etherscan.io/address/0x4fE83213D56308330EC302a8BD641f1d0113A4Cc"
+        "assetContract": "https://etherscan.io/address/0x4fE83213D56308330EC302a8BD641f1d0113A4Cc",
+        "coingeckoId": "nucypher"
       }
     },
     {
@@ -3048,7 +3331,8 @@
       "extensions": {
         "address": "0x50DE6856358Cc35f3A9a57eAAA34BD4cB707d2cd",
         "bridgeContract": "https://etherscan.io/address/0xf92cD566Ea4864356C5491c177A430C222d7e678",
-        "assetContract": "https://etherscan.io/address/0x50DE6856358Cc35f3A9a57eAAA34BD4cB707d2cd"
+        "assetContract": "https://etherscan.io/address/0x50DE6856358Cc35f3A9a57eAAA34BD4cB707d2cd",
+        "coingeckoId": "razor-network"
       }
     },
     {
@@ -3065,7 +3349,8 @@
       "extensions": {
         "address": "0x514910771AF9Ca656af840dff83E8264EcF986CA",
         "bridgeContract": "https://etherscan.io/address/0xf92cD566Ea4864356C5491c177A430C222d7e678",
-        "assetContract": "https://etherscan.io/address/0x514910771AF9Ca656af840dff83E8264EcF986CA"
+        "assetContract": "https://etherscan.io/address/0x514910771AF9Ca656af840dff83E8264EcF986CA",
+        "coingeckoId": "chainlink"
       }
     },
     {
@@ -3082,7 +3367,8 @@
       "extensions": {
         "address": "0x5218E472cFCFE0b64A064F055B43b4cdC9EfD3A6",
         "bridgeContract": "https://etherscan.io/address/0xf92cD566Ea4864356C5491c177A430C222d7e678",
-        "assetContract": "https://etherscan.io/address/0x5218E472cFCFE0b64A064F055B43b4cdC9EfD3A6"
+        "assetContract": "https://etherscan.io/address/0x5218E472cFCFE0b64A064F055B43b4cdC9EfD3A6",
+        "coingeckoId": "unfederalreserve"
       }
     },
     {
@@ -3099,7 +3385,8 @@
       "extensions": {
         "address": "0x57Ab1ec28D129707052df4dF418D58a2D46d5f51",
         "bridgeContract": "https://etherscan.io/address/0xf92cD566Ea4864356C5491c177A430C222d7e678",
-        "assetContract": "https://etherscan.io/address/0x57Ab1ec28D129707052df4dF418D58a2D46d5f51"
+        "assetContract": "https://etherscan.io/address/0x57Ab1ec28D129707052df4dF418D58a2D46d5f51",
+        "coingeckoId": "nusd"
       }
     },
     {
@@ -3116,7 +3403,8 @@
       "extensions": {
         "address": "0x584bC13c7D411c00c01A62e8019472dE68768430",
         "bridgeContract": "https://etherscan.io/address/0xf92cD566Ea4864356C5491c177A430C222d7e678",
-        "assetContract": "https://etherscan.io/address/0x584bC13c7D411c00c01A62e8019472dE68768430"
+        "assetContract": "https://etherscan.io/address/0x584bC13c7D411c00c01A62e8019472dE68768430",
+        "coingeckoId": "hegic"
       }
     },
     {
@@ -3133,7 +3421,8 @@
       "extensions": {
         "address": "0x5BEfBB272290dD5b8521D4a938f6c4757742c430",
         "bridgeContract": "https://etherscan.io/address/0xf92cD566Ea4864356C5491c177A430C222d7e678",
-        "assetContract": "https://etherscan.io/address/0x5BEfBB272290dD5b8521D4a938f6c4757742c430"
+        "assetContract": "https://etherscan.io/address/0x5BEfBB272290dD5b8521D4a938f6c4757742c430",
+        "coingeckoId": "xfinance"
       }
     },
     {
@@ -3150,7 +3439,8 @@
       "extensions": {
         "address": "0x5F64Ab1544D28732F0A24F4713c2C8ec0dA089f0",
         "bridgeContract": "https://etherscan.io/address/0xf92cD566Ea4864356C5491c177A430C222d7e678",
-        "assetContract": "https://etherscan.io/address/0x5F64Ab1544D28732F0A24F4713c2C8ec0dA089f0"
+        "assetContract": "https://etherscan.io/address/0x5F64Ab1544D28732F0A24F4713c2C8ec0dA089f0",
+        "coingeckoId": "dextf"
       }
     },
     {
@@ -3167,7 +3457,8 @@
       "extensions": {
         "address": "0x607F4C5BB672230e8672085532f7e901544a7375",
         "bridgeContract": "https://etherscan.io/address/0xf92cD566Ea4864356C5491c177A430C222d7e678",
-        "assetContract": "https://etherscan.io/address/0x607F4C5BB672230e8672085532f7e901544a7375"
+        "assetContract": "https://etherscan.io/address/0x607F4C5BB672230e8672085532f7e901544a7375",
+        "coingeckoId": "iexec-rlc"
       }
     },
     {
@@ -3184,7 +3475,8 @@
       "extensions": {
         "address": "0x62359Ed7505Efc61FF1D56fEF82158CcaffA23D7",
         "bridgeContract": "https://etherscan.io/address/0xf92cD566Ea4864356C5491c177A430C222d7e678",
-        "assetContract": "https://etherscan.io/address/0x62359Ed7505Efc61FF1D56fEF82158CcaffA23D7"
+        "assetContract": "https://etherscan.io/address/0x62359Ed7505Efc61FF1D56fEF82158CcaffA23D7",
+        "coingeckoId": "cvault-finance"
       }
     },
     {
@@ -3201,7 +3493,8 @@
       "extensions": {
         "address": "0x63b4f3e3fa4e438698CE330e365E831F7cCD1eF4",
         "bridgeContract": "https://etherscan.io/address/0xf92cD566Ea4864356C5491c177A430C222d7e678",
-        "assetContract": "https://etherscan.io/address/0x63b4f3e3fa4e438698CE330e365E831F7cCD1eF4"
+        "assetContract": "https://etherscan.io/address/0x63b4f3e3fa4e438698CE330e365E831F7cCD1eF4",
+        "coingeckoId": "cyberfi"
       }
     },
     {
@@ -3218,7 +3511,8 @@
       "extensions": {
         "address": "0x66a0f676479Cee1d7373f3DC2e2952778BfF5bd6",
         "bridgeContract": "https://etherscan.io/address/0xf92cD566Ea4864356C5491c177A430C222d7e678",
-        "assetContract": "https://etherscan.io/address/0x66a0f676479Cee1d7373f3DC2e2952778BfF5bd6"
+        "assetContract": "https://etherscan.io/address/0x66a0f676479Cee1d7373f3DC2e2952778BfF5bd6",
+        "coingeckoId": "wise-token11"
       }
     },
     {
@@ -3235,7 +3529,8 @@
       "extensions": {
         "address": "0x6810e776880C02933D47DB1b9fc05908e5386b96",
         "bridgeContract": "https://etherscan.io/address/0xf92cD566Ea4864356C5491c177A430C222d7e678",
-        "assetContract": "https://etherscan.io/address/0x6810e776880C02933D47DB1b9fc05908e5386b96"
+        "assetContract": "https://etherscan.io/address/0x6810e776880C02933D47DB1b9fc05908e5386b96",
+        "coingeckoId": "gnosis"
       }
     },
     {
@@ -3252,7 +3547,8 @@
       "extensions": {
         "address": "0x69A95185ee2a045CDC4bCd1b1Df10710395e4e23",
         "bridgeContract": "https://etherscan.io/address/0xf92cD566Ea4864356C5491c177A430C222d7e678",
-        "assetContract": "https://etherscan.io/address/0x69A95185ee2a045CDC4bCd1b1Df10710395e4e23"
+        "assetContract": "https://etherscan.io/address/0x69A95185ee2a045CDC4bCd1b1Df10710395e4e23",
+        "coingeckoId": "poolz-finance"
       }
     },
     {
@@ -3269,7 +3565,8 @@
       "extensions": {
         "address": "0x6B175474E89094C44Da98b954EedeAC495271d0F",
         "bridgeContract": "https://etherscan.io/address/0xf92cD566Ea4864356C5491c177A430C222d7e678",
-        "assetContract": "https://etherscan.io/address/0x6B175474E89094C44Da98b954EedeAC495271d0F"
+        "assetContract": "https://etherscan.io/address/0x6B175474E89094C44Da98b954EedeAC495271d0F",
+        "coingeckoId": "dai"
       }
     },
     {
@@ -3303,7 +3600,8 @@
       "extensions": {
         "address": "0x6BFf2fE249601ed0Db3a87424a2E923118BB0312",
         "bridgeContract": "https://etherscan.io/address/0xf92cD566Ea4864356C5491c177A430C222d7e678",
-        "assetContract": "https://etherscan.io/address/0x6BFf2fE249601ed0Db3a87424a2E923118BB0312"
+        "assetContract": "https://etherscan.io/address/0x6BFf2fE249601ed0Db3a87424a2E923118BB0312",
+        "coingeckoId": "fyooz"
       }
     },
     {
@@ -3320,7 +3618,8 @@
       "extensions": {
         "address": "0x6e0daDE58D2d89eBBe7aFc384e3E4f15b70b14D8",
         "bridgeContract": "https://etherscan.io/address/0xf92cD566Ea4864356C5491c177A430C222d7e678",
-        "assetContract": "https://etherscan.io/address/0x6e0daDE58D2d89eBBe7aFc384e3E4f15b70b14D8"
+        "assetContract": "https://etherscan.io/address/0x6e0daDE58D2d89eBBe7aFc384e3E4f15b70b14D8",
+        "coingeckoId": "quiverx"
       }
     },
     {
@@ -3337,7 +3636,8 @@
       "extensions": {
         "address": "0x6F87D756DAf0503d08Eb8993686c7Fc01Dc44fB1",
         "bridgeContract": "https://etherscan.io/address/0xf92cD566Ea4864356C5491c177A430C222d7e678",
-        "assetContract": "https://etherscan.io/address/0x6F87D756DAf0503d08Eb8993686c7Fc01Dc44fB1"
+        "assetContract": "https://etherscan.io/address/0x6F87D756DAf0503d08Eb8993686c7Fc01Dc44fB1",
+        "coingeckoId": "unitrade"
       }
     },
     {
@@ -3354,7 +3654,8 @@
       "extensions": {
         "address": "0x70401dFD142A16dC7031c56E862Fc88Cb9537Ce0",
         "bridgeContract": "https://etherscan.io/address/0xf92cD566Ea4864356C5491c177A430C222d7e678",
-        "assetContract": "https://etherscan.io/address/0x70401dFD142A16dC7031c56E862Fc88Cb9537Ce0"
+        "assetContract": "https://etherscan.io/address/0x70401dFD142A16dC7031c56E862Fc88Cb9537Ce0",
+        "coingeckoId": "bird-money"
       }
     },
     {
@@ -3371,7 +3672,8 @@
       "extensions": {
         "address": "0x71F85B2E46976bD21302B64329868fd15eb0D127",
         "bridgeContract": "https://etherscan.io/address/0xf92cD566Ea4864356C5491c177A430C222d7e678",
-        "assetContract": "https://etherscan.io/address/0x71F85B2E46976bD21302B64329868fd15eb0D127"
+        "assetContract": "https://etherscan.io/address/0x71F85B2E46976bD21302B64329868fd15eb0D127",
+        "coingeckoId": "axion"
       }
     },
     {
@@ -3388,7 +3690,8 @@
       "extensions": {
         "address": "0x725C263e32c72dDC3A19bEa12C5a0479a81eE688",
         "bridgeContract": "https://etherscan.io/address/0xf92cD566Ea4864356C5491c177A430C222d7e678",
-        "assetContract": "https://etherscan.io/address/0x725C263e32c72dDC3A19bEa12C5a0479a81eE688"
+        "assetContract": "https://etherscan.io/address/0x725C263e32c72dDC3A19bEa12C5a0479a81eE688",
+        "coingeckoId": "bridge-mutual"
       }
     },
     {
@@ -3405,7 +3708,8 @@
       "extensions": {
         "address": "0x740623d2c797b7D8D1EcB98e9b4Afcf99Ec31E14",
         "bridgeContract": "https://etherscan.io/address/0xf92cD566Ea4864356C5491c177A430C222d7e678",
-        "assetContract": "https://etherscan.io/address/0x740623d2c797b7D8D1EcB98e9b4Afcf99Ec31E14"
+        "assetContract": "https://etherscan.io/address/0x740623d2c797b7D8D1EcB98e9b4Afcf99Ec31E14",
+        "coingeckoId": "dynamite"
       }
     },
     {
@@ -3422,7 +3726,8 @@
       "extensions": {
         "address": "0x7671904eed7f10808B664fc30BB8693FD7237abF",
         "bridgeContract": "https://etherscan.io/address/0xf92cD566Ea4864356C5491c177A430C222d7e678",
-        "assetContract": "https://etherscan.io/address/0x7671904eed7f10808B664fc30BB8693FD7237abF"
+        "assetContract": "https://etherscan.io/address/0x7671904eed7f10808B664fc30BB8693FD7237abF",
+        "coingeckoId": "bitberry-token"
       }
     },
     {
@@ -3439,7 +3744,8 @@
       "extensions": {
         "address": "0x7a2Bc711E19ba6aff6cE8246C546E8c4B4944DFD",
         "bridgeContract": "https://etherscan.io/address/0xf92cD566Ea4864356C5491c177A430C222d7e678",
-        "assetContract": "https://etherscan.io/address/0x7a2Bc711E19ba6aff6cE8246C546E8c4B4944DFD"
+        "assetContract": "https://etherscan.io/address/0x7a2Bc711E19ba6aff6cE8246C546E8c4B4944DFD",
+        "coingeckoId": "waxe"
       }
     },
     {
@@ -3456,7 +3762,8 @@
       "extensions": {
         "address": "0x7D1AfA7B718fb893dB30A3aBc0Cfc608AaCfeBB0",
         "bridgeContract": "https://etherscan.io/address/0xf92cD566Ea4864356C5491c177A430C222d7e678",
-        "assetContract": "https://etherscan.io/address/0x7D1AfA7B718fb893dB30A3aBc0Cfc608AaCfeBB0"
+        "assetContract": "https://etherscan.io/address/0x7D1AfA7B718fb893dB30A3aBc0Cfc608AaCfeBB0",
+        "coingeckoId": "matic-network"
       }
     },
     {
@@ -3473,7 +3780,8 @@
       "extensions": {
         "address": "0x7dE91B204C1C737bcEe6F000AAA6569Cf7061cb7",
         "bridgeContract": "https://etherscan.io/address/0xf92cD566Ea4864356C5491c177A430C222d7e678",
-        "assetContract": "https://etherscan.io/address/0x7dE91B204C1C737bcEe6F000AAA6569Cf7061cb7"
+        "assetContract": "https://etherscan.io/address/0x7dE91B204C1C737bcEe6F000AAA6569Cf7061cb7",
+        "coingeckoId": "robonomics-network"
       }
     },
     {
@@ -3490,7 +3798,8 @@
       "extensions": {
         "address": "0x7Fc66500c84A76Ad7e9c93437bFc5Ac33E2DDaE9",
         "bridgeContract": "https://etherscan.io/address/0xf92cD566Ea4864356C5491c177A430C222d7e678",
-        "assetContract": "https://etherscan.io/address/0x7Fc66500c84A76Ad7e9c93437bFc5Ac33E2DDaE9"
+        "assetContract": "https://etherscan.io/address/0x7Fc66500c84A76Ad7e9c93437bFc5Ac33E2DDaE9",
+        "coingeckoId": "aave"
       }
     },
     {
@@ -3507,7 +3816,8 @@
       "extensions": {
         "address": "0x80fB784B7eD66730e8b1DBd9820aFD29931aab03",
         "bridgeContract": "https://etherscan.io/address/0xf92cD566Ea4864356C5491c177A430C222d7e678",
-        "assetContract": "https://etherscan.io/address/0x80fB784B7eD66730e8b1DBd9820aFD29931aab03"
+        "assetContract": "https://etherscan.io/address/0x80fB784B7eD66730e8b1DBd9820aFD29931aab03",
+        "coingeckoId": "ethlend"
       }
     },
     {
@@ -3524,7 +3834,8 @@
       "extensions": {
         "address": "0x83e6f1E41cdd28eAcEB20Cb649155049Fac3D5Aa",
         "bridgeContract": "https://etherscan.io/address/0xf92cD566Ea4864356C5491c177A430C222d7e678",
-        "assetContract": "https://etherscan.io/address/0x83e6f1E41cdd28eAcEB20Cb649155049Fac3D5Aa"
+        "assetContract": "https://etherscan.io/address/0x83e6f1E41cdd28eAcEB20Cb649155049Fac3D5Aa",
+        "coingeckoId": "polkastarter"
       }
     },
     {
@@ -3541,7 +3852,8 @@
       "extensions": {
         "address": "0x8400D94A5cb0fa0D041a3788e395285d61c9ee5e",
         "bridgeContract": "https://etherscan.io/address/0xf92cD566Ea4864356C5491c177A430C222d7e678",
-        "assetContract": "https://etherscan.io/address/0x8400D94A5cb0fa0D041a3788e395285d61c9ee5e"
+        "assetContract": "https://etherscan.io/address/0x8400D94A5cb0fa0D041a3788e395285d61c9ee5e",
+        "coingeckoId": "unibright"
       }
     },
     {
@@ -3558,7 +3870,8 @@
       "extensions": {
         "address": "0x84cA8bc7997272c7CfB4D0Cd3D55cd942B3c9419",
         "bridgeContract": "https://etherscan.io/address/0xf92cD566Ea4864356C5491c177A430C222d7e678",
-        "assetContract": "https://etherscan.io/address/0x84cA8bc7997272c7CfB4D0Cd3D55cd942B3c9419"
+        "assetContract": "https://etherscan.io/address/0x84cA8bc7997272c7CfB4D0Cd3D55cd942B3c9419",
+        "coingeckoId": "dia-data"
       }
     },
     {
@@ -3575,7 +3888,8 @@
       "extensions": {
         "address": "0x853d955aCEf822Db058eb8505911ED77F175b99e",
         "bridgeContract": "https://etherscan.io/address/0xf92cD566Ea4864356C5491c177A430C222d7e678",
-        "assetContract": "https://etherscan.io/address/0x853d955aCEf822Db058eb8505911ED77F175b99e"
+        "assetContract": "https://etherscan.io/address/0x853d955aCEf822Db058eb8505911ED77F175b99e",
+        "coingeckoId": "frax"
       }
     },
     {
@@ -3592,7 +3906,8 @@
       "extensions": {
         "address": "0x85Eee30c52B0b379b046Fb0F85F4f3Dc3009aFEC",
         "bridgeContract": "https://etherscan.io/address/0xf92cD566Ea4864356C5491c177A430C222d7e678",
-        "assetContract": "https://etherscan.io/address/0x85Eee30c52B0b379b046Fb0F85F4f3Dc3009aFEC"
+        "assetContract": "https://etherscan.io/address/0x85Eee30c52B0b379b046Fb0F85F4f3Dc3009aFEC",
+        "coingeckoId": "keep-network"
       }
     },
     {
@@ -3609,7 +3924,8 @@
       "extensions": {
         "address": "0x8762db106B2c2A0bccB3A80d1Ed41273552616E8",
         "bridgeContract": "https://etherscan.io/address/0xf92cD566Ea4864356C5491c177A430C222d7e678",
-        "assetContract": "https://etherscan.io/address/0x8762db106B2c2A0bccB3A80d1Ed41273552616E8"
+        "assetContract": "https://etherscan.io/address/0x8762db106B2c2A0bccB3A80d1Ed41273552616E8",
+        "coingeckoId": "reserve-rights-token"
       }
     },
     {
@@ -3626,7 +3942,8 @@
       "extensions": {
         "address": "0x8888801aF4d980682e47f1A9036e589479e835C5",
         "bridgeContract": "https://etherscan.io/address/0xf92cD566Ea4864356C5491c177A430C222d7e678",
-        "assetContract": "https://etherscan.io/address/0x8888801aF4d980682e47f1A9036e589479e835C5"
+        "assetContract": "https://etherscan.io/address/0x8888801aF4d980682e47f1A9036e589479e835C5",
+        "coingeckoId": "88mph"
       }
     },
     {
@@ -3660,7 +3977,8 @@
       "extensions": {
         "address": "0x8CE9137d39326AD0cD6491fb5CC0CbA0e089b6A9",
         "bridgeContract": "https://etherscan.io/address/0xf92cD566Ea4864356C5491c177A430C222d7e678",
-        "assetContract": "https://etherscan.io/address/0x8CE9137d39326AD0cD6491fb5CC0CbA0e089b6A9"
+        "assetContract": "https://etherscan.io/address/0x8CE9137d39326AD0cD6491fb5CC0CbA0e089b6A9",
+        "coingeckoId": "swipe"
       }
     },
     {
@@ -3677,7 +3995,8 @@
       "extensions": {
         "address": "0x8f8221aFbB33998d8584A2B05749bA73c37a938a",
         "bridgeContract": "https://etherscan.io/address/0xf92cD566Ea4864356C5491c177A430C222d7e678",
-        "assetContract": "https://etherscan.io/address/0x8f8221aFbB33998d8584A2B05749bA73c37a938a"
+        "assetContract": "https://etherscan.io/address/0x8f8221aFbB33998d8584A2B05749bA73c37a938a",
+        "coingeckoId": "request-network"
       }
     },
     {
@@ -3694,7 +4013,8 @@
       "extensions": {
         "address": "0x9355372396e3F6daF13359B7b607a3374cc638e0",
         "bridgeContract": "https://etherscan.io/address/0xf92cD566Ea4864356C5491c177A430C222d7e678",
-        "assetContract": "https://etherscan.io/address/0x9355372396e3F6daF13359B7b607a3374cc638e0"
+        "assetContract": "https://etherscan.io/address/0x9355372396e3F6daF13359B7b607a3374cc638e0",
+        "coingeckoId": "whale"
       }
     },
     {
@@ -3711,7 +4031,8 @@
       "extensions": {
         "address": "0x93ED3FBe21207Ec2E8f2d3c3de6e058Cb73Bc04d",
         "bridgeContract": "https://etherscan.io/address/0xf92cD566Ea4864356C5491c177A430C222d7e678",
-        "assetContract": "https://etherscan.io/address/0x93ED3FBe21207Ec2E8f2d3c3de6e058Cb73Bc04d"
+        "assetContract": "https://etherscan.io/address/0x93ED3FBe21207Ec2E8f2d3c3de6e058Cb73Bc04d",
+        "coingeckoId": "kleros"
       }
     },
     {
@@ -3728,7 +4049,8 @@
       "extensions": {
         "address": "0x95a4492F028aa1fd432Ea71146b433E7B4446611",
         "bridgeContract": "https://etherscan.io/address/0xf92cD566Ea4864356C5491c177A430C222d7e678",
-        "assetContract": "https://etherscan.io/address/0x95a4492F028aa1fd432Ea71146b433E7B4446611"
+        "assetContract": "https://etherscan.io/address/0x95a4492F028aa1fd432Ea71146b433E7B4446611",
+        "coingeckoId": "apy-finance"
       }
     },
     {
@@ -3745,7 +4067,8 @@
       "extensions": {
         "address": "0x967da4048cD07aB37855c090aAF366e4ce1b9F48",
         "bridgeContract": "https://etherscan.io/address/0xf92cD566Ea4864356C5491c177A430C222d7e678",
-        "assetContract": "https://etherscan.io/address/0x967da4048cD07aB37855c090aAF366e4ce1b9F48"
+        "assetContract": "https://etherscan.io/address/0x967da4048cD07aB37855c090aAF366e4ce1b9F48",
+        "coingeckoId": "ocean-protocol"
       }
     },
     {
@@ -3762,7 +4085,8 @@
       "extensions": {
         "address": "0x9B02dD390a603Add5c07f9fd9175b7DABE8D63B7",
         "bridgeContract": "https://etherscan.io/address/0xf92cD566Ea4864356C5491c177A430C222d7e678",
-        "assetContract": "https://etherscan.io/address/0x9B02dD390a603Add5c07f9fd9175b7DABE8D63B7"
+        "assetContract": "https://etherscan.io/address/0x9B02dD390a603Add5c07f9fd9175b7DABE8D63B7",
+        "coingeckoId": "shopping-io"
       }
     },
     {
@@ -3779,7 +4103,8 @@
       "extensions": {
         "address": "0x9BE89D2a4cd102D8Fecc6BF9dA793be995C22541",
         "bridgeContract": "https://etherscan.io/address/0xf92cD566Ea4864356C5491c177A430C222d7e678",
-        "assetContract": "https://etherscan.io/address/0x9BE89D2a4cd102D8Fecc6BF9dA793be995C22541"
+        "assetContract": "https://etherscan.io/address/0x9BE89D2a4cd102D8Fecc6BF9dA793be995C22541",
+        "coingeckoId": "binance-wrapped-btc"
       }
     },
     {
@@ -3796,7 +4121,8 @@
       "extensions": {
         "address": "0x9Ed8e7C9604790F7Ec589F99b94361d8AAB64E5E",
         "bridgeContract": "https://etherscan.io/address/0xf92cD566Ea4864356C5491c177A430C222d7e678",
-        "assetContract": "https://etherscan.io/address/0x9Ed8e7C9604790F7Ec589F99b94361d8AAB64E5E"
+        "assetContract": "https://etherscan.io/address/0x9Ed8e7C9604790F7Ec589F99b94361d8AAB64E5E",
+        "coingeckoId": "unistake"
       }
     },
     {
@@ -3813,7 +4139,8 @@
       "extensions": {
         "address": "0x9f8F72aA9304c8B593d555F12eF6589cC3A579A2",
         "bridgeContract": "https://etherscan.io/address/0xf92cD566Ea4864356C5491c177A430C222d7e678",
-        "assetContract": "https://etherscan.io/address/0x9f8F72aA9304c8B593d555F12eF6589cC3A579A2"
+        "assetContract": "https://etherscan.io/address/0x9f8F72aA9304c8B593d555F12eF6589cC3A579A2",
+        "coingeckoId": "maker"
       }
     },
     {
@@ -3830,7 +4157,8 @@
       "extensions": {
         "address": "0xa0246c9032bC3A600820415aE600c6388619A14D",
         "bridgeContract": "https://etherscan.io/address/0xf92cD566Ea4864356C5491c177A430C222d7e678",
-        "assetContract": "https://etherscan.io/address/0xa0246c9032bC3A600820415aE600c6388619A14D"
+        "assetContract": "https://etherscan.io/address/0xa0246c9032bC3A600820415aE600c6388619A14D",
+        "coingeckoId": "harvest-finance"
       }
     },
     {
@@ -3839,7 +4167,7 @@
       "symbol": "wUSDC",
       "name": "USD Coin (Wormhole)",
       "decimals": 6,
-      "logoURI": "https://cdn.jsdelivr.net/gh/trustwallet/assets@master/blockchains/ethereum/assets/0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48/logo.png",
+      "logoURI": "https://cdn.jsdelivr.net/gh/solana-labs/token-list@main/assets/mainnet/EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v/logo.png",
       "tags": [
         "wrapped",
         "wormhole"
@@ -3847,7 +4175,8 @@
       "extensions": {
         "address": "0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48",
         "bridgeContract": "https://etherscan.io/address/0xf92cD566Ea4864356C5491c177A430C222d7e678",
-        "assetContract": "https://etherscan.io/address/0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48"
+        "assetContract": "https://etherscan.io/address/0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48",
+        "coingeckoId": "usd-coin"
       }
     },
     {
@@ -3864,7 +4193,8 @@
       "extensions": {
         "address": "0xa117000000f279D81A1D3cc75430fAA017FA5A2e",
         "bridgeContract": "https://etherscan.io/address/0xf92cD566Ea4864356C5491c177A430C222d7e678",
-        "assetContract": "https://etherscan.io/address/0xa117000000f279D81A1D3cc75430fAA017FA5A2e"
+        "assetContract": "https://etherscan.io/address/0xa117000000f279D81A1D3cc75430fAA017FA5A2e",
+        "coingeckoId": "aragon"
       }
     },
     {
@@ -3881,7 +4211,8 @@
       "extensions": {
         "address": "0xA15C7Ebe1f07CaF6bFF097D8a589fb8AC49Ae5B3",
         "bridgeContract": "https://etherscan.io/address/0xf92cD566Ea4864356C5491c177A430C222d7e678",
-        "assetContract": "https://etherscan.io/address/0xA15C7Ebe1f07CaF6bFF097D8a589fb8AC49Ae5B3"
+        "assetContract": "https://etherscan.io/address/0xA15C7Ebe1f07CaF6bFF097D8a589fb8AC49Ae5B3",
+        "coingeckoId": "pundi-x"
       }
     },
     {
@@ -3898,7 +4229,8 @@
       "extensions": {
         "address": "0xa1d6Df714F91DeBF4e0802A542E13067f31b8262",
         "bridgeContract": "https://etherscan.io/address/0xf92cD566Ea4864356C5491c177A430C222d7e678",
-        "assetContract": "https://etherscan.io/address/0xa1d6Df714F91DeBF4e0802A542E13067f31b8262"
+        "assetContract": "https://etherscan.io/address/0xa1d6Df714F91DeBF4e0802A542E13067f31b8262",
+        "coingeckoId": "redfox-labs-2"
       }
     },
     {
@@ -3915,7 +4247,8 @@
       "extensions": {
         "address": "0xa3BeD4E1c75D00fa6f4E5E6922DB7261B5E9AcD2",
         "bridgeContract": "https://etherscan.io/address/0xf92cD566Ea4864356C5491c177A430C222d7e678",
-        "assetContract": "https://etherscan.io/address/0xa3BeD4E1c75D00fa6f4E5E6922DB7261B5E9AcD2"
+        "assetContract": "https://etherscan.io/address/0xa3BeD4E1c75D00fa6f4E5E6922DB7261B5E9AcD2",
+        "coingeckoId": "meta"
       }
     },
     {
@@ -3932,7 +4265,8 @@
       "extensions": {
         "address": "0xA4EED63db85311E22dF4473f87CcfC3DaDCFA3E3",
         "bridgeContract": "https://etherscan.io/address/0xf92cD566Ea4864356C5491c177A430C222d7e678",
-        "assetContract": "https://etherscan.io/address/0xA4EED63db85311E22dF4473f87CcfC3DaDCFA3E3"
+        "assetContract": "https://etherscan.io/address/0xA4EED63db85311E22dF4473f87CcfC3DaDCFA3E3",
+        "coingeckoId": "rubic"
       }
     },
     {
@@ -3949,7 +4283,8 @@
       "extensions": {
         "address": "0xa8c8CfB141A3bB59FEA1E2ea6B79b5ECBCD7b6ca",
         "bridgeContract": "https://etherscan.io/address/0xf92cD566Ea4864356C5491c177A430C222d7e678",
-        "assetContract": "https://etherscan.io/address/0xa8c8CfB141A3bB59FEA1E2ea6B79b5ECBCD7b6ca"
+        "assetContract": "https://etherscan.io/address/0xa8c8CfB141A3bB59FEA1E2ea6B79b5ECBCD7b6ca",
+        "coingeckoId": "noia-network"
       }
     },
     {
@@ -3966,7 +4301,8 @@
       "extensions": {
         "address": "0xaaAEBE6Fe48E54f431b0C390CfaF0b017d09D42d",
         "bridgeContract": "https://etherscan.io/address/0xf92cD566Ea4864356C5491c177A430C222d7e678",
-        "assetContract": "https://etherscan.io/address/0xaaAEBE6Fe48E54f431b0C390CfaF0b017d09D42d"
+        "assetContract": "https://etherscan.io/address/0xaaAEBE6Fe48E54f431b0C390CfaF0b017d09D42d",
+        "coingeckoId": "celsius-degree-token"
       }
     },
     {
@@ -3983,7 +4319,8 @@
       "extensions": {
         "address": "0xaC0104Cca91D167873B8601d2e71EB3D4D8c33e0",
         "bridgeContract": "https://etherscan.io/address/0xf92cD566Ea4864356C5491c177A430C222d7e678",
-        "assetContract": "https://etherscan.io/address/0xaC0104Cca91D167873B8601d2e71EB3D4D8c33e0"
+        "assetContract": "https://etherscan.io/address/0xaC0104Cca91D167873B8601d2e71EB3D4D8c33e0",
+        "coingeckoId": "crowns"
       }
     },
     {
@@ -4000,7 +4337,8 @@
       "extensions": {
         "address": "0xAd4f86a25bbc20FfB751f2FAC312A0B4d8F88c64",
         "bridgeContract": "https://etherscan.io/address/0xf92cD566Ea4864356C5491c177A430C222d7e678",
-        "assetContract": "https://etherscan.io/address/0xAd4f86a25bbc20FfB751f2FAC312A0B4d8F88c64"
+        "assetContract": "https://etherscan.io/address/0xAd4f86a25bbc20FfB751f2FAC312A0B4d8F88c64",
+        "coingeckoId": "option-room"
       }
     },
     {
@@ -4017,7 +4355,8 @@
       "extensions": {
         "address": "0xAE1eaAE3F627AAca434127644371b67B18444051",
         "bridgeContract": "https://etherscan.io/address/0xf92cD566Ea4864356C5491c177A430C222d7e678",
-        "assetContract": "https://etherscan.io/address/0xAE1eaAE3F627AAca434127644371b67B18444051"
+        "assetContract": "https://etherscan.io/address/0xAE1eaAE3F627AAca434127644371b67B18444051",
+        "coingeckoId": "yield-optimization-platform"
       }
     },
     {
@@ -4034,7 +4373,8 @@
       "extensions": {
         "address": "0xaE697F994Fc5eBC000F8e22EbFfeE04612f98A0d",
         "bridgeContract": "https://etherscan.io/address/0xf92cD566Ea4864356C5491c177A430C222d7e678",
-        "assetContract": "https://etherscan.io/address/0xaE697F994Fc5eBC000F8e22EbFfeE04612f98A0d"
+        "assetContract": "https://etherscan.io/address/0xaE697F994Fc5eBC000F8e22EbFfeE04612f98A0d",
+        "coingeckoId": "lgcy-network"
       }
     },
     {
@@ -4051,7 +4391,8 @@
       "extensions": {
         "address": "0xaf9f549774ecEDbD0966C52f250aCc548D3F36E5",
         "bridgeContract": "https://etherscan.io/address/0xf92cD566Ea4864356C5491c177A430C222d7e678",
-        "assetContract": "https://etherscan.io/address/0xaf9f549774ecEDbD0966C52f250aCc548D3F36E5"
+        "assetContract": "https://etherscan.io/address/0xaf9f549774ecEDbD0966C52f250aCc548D3F36E5",
+        "coingeckoId": "rio-defi"
       }
     },
     {
@@ -4068,7 +4409,8 @@
       "extensions": {
         "address": "0xB4d930279552397bbA2ee473229f89Ec245bc365",
         "bridgeContract": "https://etherscan.io/address/0xf92cD566Ea4864356C5491c177A430C222d7e678",
-        "assetContract": "https://etherscan.io/address/0xB4d930279552397bbA2ee473229f89Ec245bc365"
+        "assetContract": "https://etherscan.io/address/0xB4d930279552397bbA2ee473229f89Ec245bc365",
+        "coingeckoId": "mahadao"
       }
     },
     {
@@ -4085,7 +4427,8 @@
       "extensions": {
         "address": "0xB4EFd85c19999D84251304bDA99E90B92300Bd93",
         "bridgeContract": "https://etherscan.io/address/0xf92cD566Ea4864356C5491c177A430C222d7e678",
-        "assetContract": "https://etherscan.io/address/0xB4EFd85c19999D84251304bDA99E90B92300Bd93"
+        "assetContract": "https://etherscan.io/address/0xB4EFd85c19999D84251304bDA99E90B92300Bd93",
+        "coingeckoId": "rocket-pool"
       }
     },
     {
@@ -4102,7 +4445,8 @@
       "extensions": {
         "address": "0xB62132e35a6c13ee1EE0f84dC5d40bad8d815206",
         "bridgeContract": "https://etherscan.io/address/0xf92cD566Ea4864356C5491c177A430C222d7e678",
-        "assetContract": "https://etherscan.io/address/0xB62132e35a6c13ee1EE0f84dC5d40bad8d815206"
+        "assetContract": "https://etherscan.io/address/0xB62132e35a6c13ee1EE0f84dC5d40bad8d815206",
+        "coingeckoId": "nexo"
       }
     },
     {
@@ -4119,7 +4463,8 @@
       "extensions": {
         "address": "0xb753428af26E81097e7fD17f40c88aaA3E04902c",
         "bridgeContract": "https://etherscan.io/address/0xf92cD566Ea4864356C5491c177A430C222d7e678",
-        "assetContract": "https://etherscan.io/address/0xb753428af26E81097e7fD17f40c88aaA3E04902c"
+        "assetContract": "https://etherscan.io/address/0xb753428af26E81097e7fD17f40c88aaA3E04902c",
+        "coingeckoId": "saffron-finance"
       }
     },
     {
@@ -4136,7 +4481,8 @@
       "extensions": {
         "address": "0xB987D48Ed8f2C468D52D6405624EADBa5e76d723",
         "bridgeContract": "https://etherscan.io/address/0xf92cD566Ea4864356C5491c177A430C222d7e678",
-        "assetContract": "https://etherscan.io/address/0xB987D48Ed8f2C468D52D6405624EADBa5e76d723"
+        "assetContract": "https://etherscan.io/address/0xB987D48Ed8f2C468D52D6405624EADBa5e76d723",
+        "coingeckoId": "stabilize"
       }
     },
     {
@@ -4153,7 +4499,8 @@
       "extensions": {
         "address": "0xba100000625a3754423978a60c9317c58a424e3D",
         "bridgeContract": "https://etherscan.io/address/0xf92cD566Ea4864356C5491c177A430C222d7e678",
-        "assetContract": "https://etherscan.io/address/0xba100000625a3754423978a60c9317c58a424e3D"
+        "assetContract": "https://etherscan.io/address/0xba100000625a3754423978a60c9317c58a424e3D",
+        "coingeckoId": "balancer"
       }
     },
     {
@@ -4170,7 +4517,8 @@
       "extensions": {
         "address": "0xBA11D00c5f74255f56a5E366F4F77f5A186d7f55",
         "bridgeContract": "https://etherscan.io/address/0xf92cD566Ea4864356C5491c177A430C222d7e678",
-        "assetContract": "https://etherscan.io/address/0xBA11D00c5f74255f56a5E366F4F77f5A186d7f55"
+        "assetContract": "https://etherscan.io/address/0xBA11D00c5f74255f56a5E366F4F77f5A186d7f55",
+        "coingeckoId": "band-protocol"
       }
     },
     {
@@ -4187,7 +4535,8 @@
       "extensions": {
         "address": "0xBa21Ef4c9f433Ede00badEFcC2754B8E74bd538A",
         "bridgeContract": "https://etherscan.io/address/0xf92cD566Ea4864356C5491c177A430C222d7e678",
-        "assetContract": "https://etherscan.io/address/0xBa21Ef4c9f433Ede00badEFcC2754B8E74bd538A"
+        "assetContract": "https://etherscan.io/address/0xBa21Ef4c9f433Ede00badEFcC2754B8E74bd538A",
+        "coingeckoId": "swapfolio"
       }
     },
     {
@@ -4204,7 +4553,8 @@
       "extensions": {
         "address": "0xBBbbCA6A901c926F240b89EacB641d8Aec7AEafD",
         "bridgeContract": "https://etherscan.io/address/0xf92cD566Ea4864356C5491c177A430C222d7e678",
-        "assetContract": "https://etherscan.io/address/0xBBbbCA6A901c926F240b89EacB641d8Aec7AEafD"
+        "assetContract": "https://etherscan.io/address/0xBBbbCA6A901c926F240b89EacB641d8Aec7AEafD",
+        "coingeckoId": "loopring"
       }
     },
     {
@@ -4221,7 +4571,8 @@
       "extensions": {
         "address": "0xbC396689893D065F41bc2C6EcbeE5e0085233447",
         "bridgeContract": "https://etherscan.io/address/0xf92cD566Ea4864356C5491c177A430C222d7e678",
-        "assetContract": "https://etherscan.io/address/0xbC396689893D065F41bc2C6EcbeE5e0085233447"
+        "assetContract": "https://etherscan.io/address/0xbC396689893D065F41bc2C6EcbeE5e0085233447",
+        "coingeckoId": "perpetual-protocol"
       }
     },
     {
@@ -4238,7 +4589,8 @@
       "extensions": {
         "address": "0xc00e94Cb662C3520282E6f5717214004A7f26888",
         "bridgeContract": "https://etherscan.io/address/0xf92cD566Ea4864356C5491c177A430C222d7e678",
-        "assetContract": "https://etherscan.io/address/0xc00e94Cb662C3520282E6f5717214004A7f26888"
+        "assetContract": "https://etherscan.io/address/0xc00e94Cb662C3520282E6f5717214004A7f26888",
+        "coingeckoId": "compound-governance-token"
       }
     },
     {
@@ -4255,7 +4607,8 @@
       "extensions": {
         "address": "0xC011a73ee8576Fb46F5E1c5751cA3B9Fe0af2a6F",
         "bridgeContract": "https://etherscan.io/address/0xf92cD566Ea4864356C5491c177A430C222d7e678",
-        "assetContract": "https://etherscan.io/address/0xC011a73ee8576Fb46F5E1c5751cA3B9Fe0af2a6F"
+        "assetContract": "https://etherscan.io/address/0xC011a73ee8576Fb46F5E1c5751cA3B9Fe0af2a6F",
+        "coingeckoId": "havven"
       }
     },
     {
@@ -4272,7 +4625,8 @@
       "extensions": {
         "address": "0xC0bA369c8Db6eB3924965e5c4FD0b4C1B91e305F",
         "bridgeContract": "https://etherscan.io/address/0xf92cD566Ea4864356C5491c177A430C222d7e678",
-        "assetContract": "https://etherscan.io/address/0xC0bA369c8Db6eB3924965e5c4FD0b4C1B91e305F"
+        "assetContract": "https://etherscan.io/address/0xC0bA369c8Db6eB3924965e5c4FD0b4C1B91e305F",
+        "coingeckoId": "dlp-duck-token"
       }
     },
     {
@@ -4289,7 +4643,8 @@
       "extensions": {
         "address": "0xC4C2614E694cF534D407Ee49F8E44D125E4681c4",
         "bridgeContract": "https://etherscan.io/address/0xf92cD566Ea4864356C5491c177A430C222d7e678",
-        "assetContract": "https://etherscan.io/address/0xC4C2614E694cF534D407Ee49F8E44D125E4681c4"
+        "assetContract": "https://etherscan.io/address/0xC4C2614E694cF534D407Ee49F8E44D125E4681c4",
+        "coingeckoId": "chain-games"
       }
     },
     {
@@ -4306,7 +4661,8 @@
       "extensions": {
         "address": "0xc944E90C64B2c07662A292be6244BDf05Cda44a7",
         "bridgeContract": "https://etherscan.io/address/0xf92cD566Ea4864356C5491c177A430C222d7e678",
-        "assetContract": "https://etherscan.io/address/0xc944E90C64B2c07662A292be6244BDf05Cda44a7"
+        "assetContract": "https://etherscan.io/address/0xc944E90C64B2c07662A292be6244BDf05Cda44a7",
+        "coingeckoId": "the-graph"
       }
     },
     {
@@ -4323,7 +4679,8 @@
       "extensions": {
         "address": "0xCb5f72d37685C3D5aD0bB5F982443BC8FcdF570E",
         "bridgeContract": "https://etherscan.io/address/0xf92cD566Ea4864356C5491c177A430C222d7e678",
-        "assetContract": "https://etherscan.io/address/0xCb5f72d37685C3D5aD0bB5F982443BC8FcdF570E"
+        "assetContract": "https://etherscan.io/address/0xCb5f72d37685C3D5aD0bB5F982443BC8FcdF570E",
+        "coingeckoId": "rootkit"
       }
     },
     {
@@ -4340,7 +4697,8 @@
       "extensions": {
         "address": "0xCC4304A31d09258b0029eA7FE63d032f52e44EFe",
         "bridgeContract": "https://etherscan.io/address/0xf92cD566Ea4864356C5491c177A430C222d7e678",
-        "assetContract": "https://etherscan.io/address/0xCC4304A31d09258b0029eA7FE63d032f52e44EFe"
+        "assetContract": "https://etherscan.io/address/0xCC4304A31d09258b0029eA7FE63d032f52e44EFe",
+        "coingeckoId": "trustswap"
       }
     },
     {
@@ -4357,7 +4715,8 @@
       "extensions": {
         "address": "0xd084B83C305daFD76AE3E1b4E1F1fe2eCcCb3988",
         "bridgeContract": "https://etherscan.io/address/0xf92cD566Ea4864356C5491c177A430C222d7e678",
-        "assetContract": "https://etherscan.io/address/0xd084B83C305daFD76AE3E1b4E1F1fe2eCcCb3988"
+        "assetContract": "https://etherscan.io/address/0xd084B83C305daFD76AE3E1b4E1F1fe2eCcCb3988",
+        "coingeckoId": "terra-virtua-kolect"
       }
     },
     {
@@ -4374,7 +4733,8 @@
       "extensions": {
         "address": "0xd26114cd6EE289AccF82350c8d8487fedB8A0C07",
         "bridgeContract": "https://etherscan.io/address/0xf92cD566Ea4864356C5491c177A430C222d7e678",
-        "assetContract": "https://etherscan.io/address/0xd26114cd6EE289AccF82350c8d8487fedB8A0C07"
+        "assetContract": "https://etherscan.io/address/0xd26114cd6EE289AccF82350c8d8487fedB8A0C07",
+        "coingeckoId": "omisego"
       }
     },
     {
@@ -4391,7 +4751,8 @@
       "extensions": {
         "address": "0xd2877702675e6cEb975b4A1dFf9fb7BAF4C91ea9",
         "bridgeContract": "https://etherscan.io/address/0xf92cD566Ea4864356C5491c177A430C222d7e678",
-        "assetContract": "https://etherscan.io/address/0xd2877702675e6cEb975b4A1dFf9fb7BAF4C91ea9"
+        "assetContract": "https://etherscan.io/address/0xd2877702675e6cEb975b4A1dFf9fb7BAF4C91ea9",
+        "coingeckoId": "wrapped-terra"
       }
     },
     {
@@ -4408,7 +4769,8 @@
       "extensions": {
         "address": "0xD2dDa223b2617cB616c1580db421e4cFAe6a8a85",
         "bridgeContract": "https://etherscan.io/address/0xf92cD566Ea4864356C5491c177A430C222d7e678",
-        "assetContract": "https://etherscan.io/address/0xD2dDa223b2617cB616c1580db421e4cFAe6a8a85"
+        "assetContract": "https://etherscan.io/address/0xD2dDa223b2617cB616c1580db421e4cFAe6a8a85",
+        "coingeckoId": "bondly"
       }
     },
     {
@@ -4425,7 +4787,8 @@
       "extensions": {
         "address": "0xd379700999F4805Ce80aa32DB46A94dF64561108",
         "bridgeContract": "https://etherscan.io/address/0xf92cD566Ea4864356C5491c177A430C222d7e678",
-        "assetContract": "https://etherscan.io/address/0xd379700999F4805Ce80aa32DB46A94dF64561108"
+        "assetContract": "https://etherscan.io/address/0xd379700999F4805Ce80aa32DB46A94dF64561108",
+        "coingeckoId": "dextrust"
       }
     },
     {
@@ -4442,7 +4805,8 @@
       "extensions": {
         "address": "0xD46bA6D942050d489DBd938a2C909A5d5039A161",
         "bridgeContract": "https://etherscan.io/address/0xf92cD566Ea4864356C5491c177A430C222d7e678",
-        "assetContract": "https://etherscan.io/address/0xD46bA6D942050d489DBd938a2C909A5d5039A161"
+        "assetContract": "https://etherscan.io/address/0xD46bA6D942050d489DBd938a2C909A5d5039A161",
+        "coingeckoId": "ampleforth"
       }
     },
     {
@@ -4459,7 +4823,8 @@
       "extensions": {
         "address": "0xD478161C952357F05f0292B56012Cd8457F1cfbF",
         "bridgeContract": "https://etherscan.io/address/0xf92cD566Ea4864356C5491c177A430C222d7e678",
-        "assetContract": "https://etherscan.io/address/0xD478161C952357F05f0292B56012Cd8457F1cfbF"
+        "assetContract": "https://etherscan.io/address/0xD478161C952357F05f0292B56012Cd8457F1cfbF",
+        "coingeckoId": "polkamarkets"
       }
     },
     {
@@ -4476,7 +4841,8 @@
       "extensions": {
         "address": "0xD533a949740bb3306d119CC777fa900bA034cd52",
         "bridgeContract": "https://etherscan.io/address/0xf92cD566Ea4864356C5491c177A430C222d7e678",
-        "assetContract": "https://etherscan.io/address/0xD533a949740bb3306d119CC777fa900bA034cd52"
+        "assetContract": "https://etherscan.io/address/0xD533a949740bb3306d119CC777fa900bA034cd52",
+        "coingeckoId": "curve-dao-token"
       }
     },
     {
@@ -4493,7 +4859,8 @@
       "extensions": {
         "address": "0xD5525D397898e5502075Ea5E830d8914f6F0affe",
         "bridgeContract": "https://etherscan.io/address/0xf92cD566Ea4864356C5491c177A430C222d7e678",
-        "assetContract": "https://etherscan.io/address/0xD5525D397898e5502075Ea5E830d8914f6F0affe"
+        "assetContract": "https://etherscan.io/address/0xD5525D397898e5502075Ea5E830d8914f6F0affe",
+        "coingeckoId": "degenerator"
       }
     },
     {
@@ -4510,7 +4877,8 @@
       "extensions": {
         "address": "0xD6c67B93a7b248dF608a653d82a100556144c5DA",
         "bridgeContract": "https://etherscan.io/address/0xf92cD566Ea4864356C5491c177A430C222d7e678",
-        "assetContract": "https://etherscan.io/address/0xD6c67B93a7b248dF608a653d82a100556144c5DA"
+        "assetContract": "https://etherscan.io/address/0xD6c67B93a7b248dF608a653d82a100556144c5DA",
+        "coingeckoId": "exnetwork-token"
       }
     },
     {
@@ -4527,7 +4895,8 @@
       "extensions": {
         "address": "0xdAC17F958D2ee523a2206206994597C13D831ec7",
         "bridgeContract": "https://etherscan.io/address/0xf92cD566Ea4864356C5491c177A430C222d7e678",
-        "assetContract": "https://etherscan.io/address/0xdAC17F958D2ee523a2206206994597C13D831ec7"
+        "assetContract": "https://etherscan.io/address/0xdAC17F958D2ee523a2206206994597C13D831ec7",
+        "coingeckoId": "tether"
       }
     },
     {
@@ -4544,7 +4913,8 @@
       "extensions": {
         "address": "0xDcB01cc464238396E213a6fDd933E36796eAfF9f",
         "bridgeContract": "https://etherscan.io/address/0xf92cD566Ea4864356C5491c177A430C222d7e678",
-        "assetContract": "https://etherscan.io/address/0xDcB01cc464238396E213a6fDd933E36796eAfF9f"
+        "assetContract": "https://etherscan.io/address/0xDcB01cc464238396E213a6fDd933E36796eAfF9f",
+        "coingeckoId": "yield"
       }
     },
     {
@@ -4561,7 +4931,8 @@
       "extensions": {
         "address": "0xdd974D5C2e2928deA5F71b9825b8b646686BD200",
         "bridgeContract": "https://etherscan.io/address/0xf92cD566Ea4864356C5491c177A430C222d7e678",
-        "assetContract": "https://etherscan.io/address/0xdd974D5C2e2928deA5F71b9825b8b646686BD200"
+        "assetContract": "https://etherscan.io/address/0xdd974D5C2e2928deA5F71b9825b8b646686BD200",
+        "coingeckoId": "kyber-network"
       }
     },
     {
@@ -4595,7 +4966,8 @@
       "extensions": {
         "address": "0xe28b3B32B6c345A34Ff64674606124Dd5Aceca30",
         "bridgeContract": "https://etherscan.io/address/0xf92cD566Ea4864356C5491c177A430C222d7e678",
-        "assetContract": "https://etherscan.io/address/0xe28b3B32B6c345A34Ff64674606124Dd5Aceca30"
+        "assetContract": "https://etherscan.io/address/0xe28b3B32B6c345A34Ff64674606124Dd5Aceca30",
+        "coingeckoId": "injective-protocol"
       }
     },
     {
@@ -4612,7 +4984,8 @@
       "extensions": {
         "address": "0xE41d2489571d322189246DaFA5ebDe1F4699F498",
         "bridgeContract": "https://etherscan.io/address/0xf92cD566Ea4864356C5491c177A430C222d7e678",
-        "assetContract": "https://etherscan.io/address/0xE41d2489571d322189246DaFA5ebDe1F4699F498"
+        "assetContract": "https://etherscan.io/address/0xE41d2489571d322189246DaFA5ebDe1F4699F498",
+        "coingeckoId": "0x"
       }
     },
     {
@@ -4629,7 +5002,8 @@
       "extensions": {
         "address": "0xe53EC727dbDEB9E2d5456c3be40cFF031AB40A55",
         "bridgeContract": "https://etherscan.io/address/0xf92cD566Ea4864356C5491c177A430C222d7e678",
-        "assetContract": "https://etherscan.io/address/0xe53EC727dbDEB9E2d5456c3be40cFF031AB40A55"
+        "assetContract": "https://etherscan.io/address/0xe53EC727dbDEB9E2d5456c3be40cFF031AB40A55",
+        "coingeckoId": "superfarm"
       }
     },
     {
@@ -4646,7 +5020,8 @@
       "extensions": {
         "address": "0xE95A203B1a91a908F9B9CE46459d101078c2c3cb",
         "bridgeContract": "https://etherscan.io/address/0xf92cD566Ea4864356C5491c177A430C222d7e678",
-        "assetContract": "https://etherscan.io/address/0xE95A203B1a91a908F9B9CE46459d101078c2c3cb"
+        "assetContract": "https://etherscan.io/address/0xE95A203B1a91a908F9B9CE46459d101078c2c3cb",
+        "coingeckoId": "ankreth"
       }
     },
     {
@@ -4663,7 +5038,8 @@
       "extensions": {
         "address": "0xEa319e87Cf06203DAe107Dd8E5672175e3Ee976c",
         "bridgeContract": "https://etherscan.io/address/0xf92cD566Ea4864356C5491c177A430C222d7e678",
-        "assetContract": "https://etherscan.io/address/0xEa319e87Cf06203DAe107Dd8E5672175e3Ee976c"
+        "assetContract": "https://etherscan.io/address/0xEa319e87Cf06203DAe107Dd8E5672175e3Ee976c",
+        "coingeckoId": "surf-finance"
       }
     },
     {
@@ -4680,7 +5056,8 @@
       "extensions": {
         "address": "0xEB4C2781e4ebA804CE9a9803C67d0893436bB27D",
         "bridgeContract": "https://etherscan.io/address/0xf92cD566Ea4864356C5491c177A430C222d7e678",
-        "assetContract": "https://etherscan.io/address/0xEB4C2781e4ebA804CE9a9803C67d0893436bB27D"
+        "assetContract": "https://etherscan.io/address/0xEB4C2781e4ebA804CE9a9803C67d0893436bB27D",
+        "coingeckoId": "renbtc"
       }
     },
     {
@@ -4697,7 +5074,8 @@
       "extensions": {
         "address": "0xEd91879919B71bB6905f23af0A68d231EcF87b14",
         "bridgeContract": "https://etherscan.io/address/0xf92cD566Ea4864356C5491c177A430C222d7e678",
-        "assetContract": "https://etherscan.io/address/0xEd91879919B71bB6905f23af0A68d231EcF87b14"
+        "assetContract": "https://etherscan.io/address/0xEd91879919B71bB6905f23af0A68d231EcF87b14",
+        "coingeckoId": "dmm-governance"
       }
     },
     {
@@ -4714,7 +5092,8 @@
       "extensions": {
         "address": "0xEEF9f339514298C6A857EfCfC1A762aF84438dEE",
         "bridgeContract": "https://etherscan.io/address/0xf92cD566Ea4864356C5491c177A430C222d7e678",
-        "assetContract": "https://etherscan.io/address/0xEEF9f339514298C6A857EfCfC1A762aF84438dEE"
+        "assetContract": "https://etherscan.io/address/0xEEF9f339514298C6A857EfCfC1A762aF84438dEE",
+        "coingeckoId": "hermez-network-token"
       }
     },
     {
@@ -4731,7 +5110,8 @@
       "extensions": {
         "address": "0xf1f955016EcbCd7321c7266BccFB96c68ea5E49b",
         "bridgeContract": "https://etherscan.io/address/0xf92cD566Ea4864356C5491c177A430C222d7e678",
-        "assetContract": "https://etherscan.io/address/0xf1f955016EcbCd7321c7266BccFB96c68ea5E49b"
+        "assetContract": "https://etherscan.io/address/0xf1f955016EcbCd7321c7266BccFB96c68ea5E49b",
+        "coingeckoId": "rally-2"
       }
     },
     {
@@ -4748,7 +5128,8 @@
       "extensions": {
         "address": "0xf4CD3d3Fda8d7Fd6C5a500203e38640A70Bf9577",
         "bridgeContract": "https://etherscan.io/address/0xf92cD566Ea4864356C5491c177A430C222d7e678",
-        "assetContract": "https://etherscan.io/address/0xf4CD3d3Fda8d7Fd6C5a500203e38640A70Bf9577"
+        "assetContract": "https://etherscan.io/address/0xf4CD3d3Fda8d7Fd6C5a500203e38640A70Bf9577",
+        "coingeckoId": "yfdai-finance"
       }
     },
     {
@@ -4765,7 +5146,8 @@
       "extensions": {
         "address": "0xF4d861575ecC9493420A3f5a14F85B13f0b50EB3",
         "bridgeContract": "https://etherscan.io/address/0xf92cD566Ea4864356C5491c177A430C222d7e678",
-        "assetContract": "https://etherscan.io/address/0xF4d861575ecC9493420A3f5a14F85B13f0b50EB3"
+        "assetContract": "https://etherscan.io/address/0xF4d861575ecC9493420A3f5a14F85B13f0b50EB3",
+        "coingeckoId": "fractal"
       }
     },
     {
@@ -4799,7 +5181,8 @@
       "extensions": {
         "address": "0xF629cBd94d3791C9250152BD8dfBDF380E2a3B9c",
         "bridgeContract": "https://etherscan.io/address/0xf92cD566Ea4864356C5491c177A430C222d7e678",
-        "assetContract": "https://etherscan.io/address/0xF629cBd94d3791C9250152BD8dfBDF380E2a3B9c"
+        "assetContract": "https://etherscan.io/address/0xF629cBd94d3791C9250152BD8dfBDF380E2a3B9c",
+        "coingeckoId": "enjincoin"
       }
     },
     {
@@ -4816,7 +5199,8 @@
       "extensions": {
         "address": "0xF94b5C5651c888d928439aB6514B93944eEE6F48",
         "bridgeContract": "https://etherscan.io/address/0xf92cD566Ea4864356C5491c177A430C222d7e678",
-        "assetContract": "https://etherscan.io/address/0xF94b5C5651c888d928439aB6514B93944eEE6F48"
+        "assetContract": "https://etherscan.io/address/0xF94b5C5651c888d928439aB6514B93944eEE6F48",
+        "coingeckoId": "yield-app"
       }
     },
     {
@@ -4833,7 +5217,8 @@
       "extensions": {
         "address": "0xFbEEa1C75E4c4465CB2FCCc9c6d6afe984558E20",
         "bridgeContract": "https://etherscan.io/address/0xf92cD566Ea4864356C5491c177A430C222d7e678",
-        "assetContract": "https://etherscan.io/address/0xFbEEa1C75E4c4465CB2FCCc9c6d6afe984558E20"
+        "assetContract": "https://etherscan.io/address/0xFbEEa1C75E4c4465CB2FCCc9c6d6afe984558E20",
+        "coingeckoId": "duckdaodime"
       }
     },
     {
@@ -4850,7 +5235,8 @@
       "extensions": {
         "address": "0xFca59Cd816aB1eaD66534D82bc21E7515cE441CF",
         "bridgeContract": "https://etherscan.io/address/0xf92cD566Ea4864356C5491c177A430C222d7e678",
-        "assetContract": "https://etherscan.io/address/0xFca59Cd816aB1eaD66534D82bc21E7515cE441CF"
+        "assetContract": "https://etherscan.io/address/0xFca59Cd816aB1eaD66534D82bc21E7515cE441CF",
+        "coingeckoId": "rarible"
       }
     },
     {
@@ -4867,7 +5253,8 @@
       "extensions": {
         "address": "0xfF20817765cB7f73d4bde2e66e067E58D11095C2",
         "bridgeContract": "https://etherscan.io/address/0xf92cD566Ea4864356C5491c177A430C222d7e678",
-        "assetContract": "https://etherscan.io/address/0xfF20817765cB7f73d4bde2e66e067E58D11095C2"
+        "assetContract": "https://etherscan.io/address/0xfF20817765cB7f73d4bde2e66e067E58D11095C2",
+        "coingeckoId": "amp-token"
       }
     },
     {
@@ -4884,7 +5271,8 @@
       "extensions": {
         "address": "0xfffffffFf15AbF397dA76f1dcc1A1604F45126DB",
         "bridgeContract": "https://etherscan.io/address/0xf92cD566Ea4864356C5491c177A430C222d7e678",
-        "assetContract": "https://etherscan.io/address/0xfffffffFf15AbF397dA76f1dcc1A1604F45126DB"
+        "assetContract": "https://etherscan.io/address/0xfffffffFf15AbF397dA76f1dcc1A1604F45126DB",
+        "coingeckoId": "fsw-token"
       }
     },
     {
@@ -4901,7 +5289,8 @@
       "extensions": {
         "address": "0x4Fabb145d64652a948d72533023f6E7A623C7C53",
         "bridgeContract": "https://etherscan.io/address/0xf92cD566Ea4864356C5491c177A430C222d7e678",
-        "assetContract": "https://etherscan.io/address/0x4Fabb145d64652a948d72533023f6E7A623C7C53"
+        "assetContract": "https://etherscan.io/address/0x4Fabb145d64652a948d72533023f6E7A623C7C53",
+        "coingeckoId": "binance-usd"
       }
     },
     {
@@ -4918,7 +5307,8 @@
       "extensions": {
         "address": "0xfC1E690f61EFd961294b3e1Ce3313fBD8aa4f85d",
         "bridgeContract": "https://etherscan.io/address/0xf92cD566Ea4864356C5491c177A430C222d7e678",
-        "assetContract": "https://etherscan.io/address/0xfC1E690f61EFd961294b3e1Ce3313fBD8aa4f85d"
+        "assetContract": "https://etherscan.io/address/0xfC1E690f61EFd961294b3e1Ce3313fBD8aa4f85d",
+        "coingeckoId": "aave-dai-v1"
       }
     },
     {
@@ -4935,7 +5325,8 @@
       "extensions": {
         "address": "0x4DA9b813057D04BAef4e5800E36083717b4a0341",
         "bridgeContract": "https://etherscan.io/address/0xf92cD566Ea4864356C5491c177A430C222d7e678",
-        "assetContract": "https://etherscan.io/address/0x4DA9b813057D04BAef4e5800E36083717b4a0341"
+        "assetContract": "https://etherscan.io/address/0x4DA9b813057D04BAef4e5800E36083717b4a0341",
+        "coingeckoId": "aave-tusd-v1"
       }
     },
     {
@@ -4952,7 +5343,8 @@
       "extensions": {
         "address": "0x9bA00D6856a4eDF4665BcA2C2309936572473B7E",
         "bridgeContract": "https://etherscan.io/address/0xf92cD566Ea4864356C5491c177A430C222d7e678",
-        "assetContract": "https://etherscan.io/address/0x9bA00D6856a4eDF4665BcA2C2309936572473B7E"
+        "assetContract": "https://etherscan.io/address/0x9bA00D6856a4eDF4665BcA2C2309936572473B7E",
+        "coingeckoId": "aave-usdc-v1"
       }
     },
     {
@@ -4969,7 +5361,8 @@
       "extensions": {
         "address": "0x71fc860F7D3A592A4a98740e39dB31d25db65ae8",
         "bridgeContract": "https://etherscan.io/address/0xf92cD566Ea4864356C5491c177A430C222d7e678",
-        "assetContract": "https://etherscan.io/address/0x71fc860F7D3A592A4a98740e39dB31d25db65ae8"
+        "assetContract": "https://etherscan.io/address/0x71fc860F7D3A592A4a98740e39dB31d25db65ae8",
+        "coingeckoId": "aave-usdt-v1"
       }
     },
     {
@@ -4986,7 +5379,8 @@
       "extensions": {
         "address": "0x625aE63000f46200499120B906716420bd059240",
         "bridgeContract": "https://etherscan.io/address/0xf92cD566Ea4864356C5491c177A430C222d7e678",
-        "assetContract": "https://etherscan.io/address/0x625aE63000f46200499120B906716420bd059240"
+        "assetContract": "https://etherscan.io/address/0x625aE63000f46200499120B906716420bd059240",
+        "coingeckoId": "aave-susd-v1"
       }
     },
     {
@@ -5020,7 +5414,8 @@
       "extensions": {
         "address": "0xE1BA0FB44CCb0D11b80F92f4f8Ed94CA3fF51D00",
         "bridgeContract": "https://etherscan.io/address/0xf92cD566Ea4864356C5491c177A430C222d7e678",
-        "assetContract": "https://etherscan.io/address/0xE1BA0FB44CCb0D11b80F92f4f8Ed94CA3fF51D00"
+        "assetContract": "https://etherscan.io/address/0xE1BA0FB44CCb0D11b80F92f4f8Ed94CA3fF51D00",
+        "coingeckoId": "aave-bat-v1"
       }
     },
     {
@@ -5037,7 +5432,8 @@
       "extensions": {
         "address": "0x3a3A65aAb0dd2A17E3F1947bA16138cd37d08c04",
         "bridgeContract": "https://etherscan.io/address/0xf92cD566Ea4864356C5491c177A430C222d7e678",
-        "assetContract": "https://etherscan.io/address/0x3a3A65aAb0dd2A17E3F1947bA16138cd37d08c04"
+        "assetContract": "https://etherscan.io/address/0x3a3A65aAb0dd2A17E3F1947bA16138cd37d08c04",
+        "coingeckoId": "aave-eth-v1"
       }
     },
     {
@@ -5054,7 +5450,8 @@
       "extensions": {
         "address": "0xA64BD6C70Cb9051F6A9ba1F163Fdc07E0DfB5F84",
         "bridgeContract": "https://etherscan.io/address/0xf92cD566Ea4864356C5491c177A430C222d7e678",
-        "assetContract": "https://etherscan.io/address/0xA64BD6C70Cb9051F6A9ba1F163Fdc07E0DfB5F84"
+        "assetContract": "https://etherscan.io/address/0xA64BD6C70Cb9051F6A9ba1F163Fdc07E0DfB5F84",
+        "coingeckoId": "aave-link-v1"
       }
     },
     {
@@ -5071,7 +5468,8 @@
       "extensions": {
         "address": "0x9D91BE44C06d373a8a226E1f3b146956083803eB",
         "bridgeContract": "https://etherscan.io/address/0xf92cD566Ea4864356C5491c177A430C222d7e678",
-        "assetContract": "https://etherscan.io/address/0x9D91BE44C06d373a8a226E1f3b146956083803eB"
+        "assetContract": "https://etherscan.io/address/0x9D91BE44C06d373a8a226E1f3b146956083803eB",
+        "coingeckoId": "aave-knc-v1"
       }
     },
     {
@@ -5105,7 +5503,8 @@
       "extensions": {
         "address": "0x7deB5e830be29F91E298ba5FF1356BB7f8146998",
         "bridgeContract": "https://etherscan.io/address/0xf92cD566Ea4864356C5491c177A430C222d7e678",
-        "assetContract": "https://etherscan.io/address/0x7deB5e830be29F91E298ba5FF1356BB7f8146998"
+        "assetContract": "https://etherscan.io/address/0x7deB5e830be29F91E298ba5FF1356BB7f8146998",
+        "coingeckoId": "aave-mkr-v1"
       }
     },
     {
@@ -5122,7 +5521,8 @@
       "extensions": {
         "address": "0x6FCE4A401B6B80ACe52baAefE4421Bd188e76F6f",
         "bridgeContract": "https://etherscan.io/address/0xf92cD566Ea4864356C5491c177A430C222d7e678",
-        "assetContract": "https://etherscan.io/address/0x6FCE4A401B6B80ACe52baAefE4421Bd188e76F6f"
+        "assetContract": "https://etherscan.io/address/0x6FCE4A401B6B80ACe52baAefE4421Bd188e76F6f",
+        "coingeckoId": "aave-mana-v1"
       }
     },
     {
@@ -5139,7 +5539,8 @@
       "extensions": {
         "address": "0x6Fb0855c404E09c47C3fBCA25f08d4E41f9F062f",
         "bridgeContract": "https://etherscan.io/address/0xf92cD566Ea4864356C5491c177A430C222d7e678",
-        "assetContract": "https://etherscan.io/address/0x6Fb0855c404E09c47C3fBCA25f08d4E41f9F062f"
+        "assetContract": "https://etherscan.io/address/0x6Fb0855c404E09c47C3fBCA25f08d4E41f9F062f",
+        "coingeckoId": "aave-zrx-v1"
       }
     },
     {
@@ -5156,7 +5557,8 @@
       "extensions": {
         "address": "0x328C4c80BC7aCa0834Db37e6600A6c49E12Da4DE",
         "bridgeContract": "https://etherscan.io/address/0xf92cD566Ea4864356C5491c177A430C222d7e678",
-        "assetContract": "https://etherscan.io/address/0x328C4c80BC7aCa0834Db37e6600A6c49E12Da4DE"
+        "assetContract": "https://etherscan.io/address/0x328C4c80BC7aCa0834Db37e6600A6c49E12Da4DE",
+        "coingeckoId": "aave-snx-v1"
       }
     },
     {
@@ -5173,7 +5575,8 @@
       "extensions": {
         "address": "0xFC4B8ED459e00e5400be803A9BB3954234FD50e3",
         "bridgeContract": "https://etherscan.io/address/0xf92cD566Ea4864356C5491c177A430C222d7e678",
-        "assetContract": "https://etherscan.io/address/0xFC4B8ED459e00e5400be803A9BB3954234FD50e3"
+        "assetContract": "https://etherscan.io/address/0xFC4B8ED459e00e5400be803A9BB3954234FD50e3",
+        "coingeckoId": "aave-wbtc-v1"
       }
     },
     {
@@ -5190,7 +5593,8 @@
       "extensions": {
         "address": "0x6Ee0f7BB50a54AB5253dA0667B0Dc2ee526C30a8",
         "bridgeContract": "https://etherscan.io/address/0xf92cD566Ea4864356C5491c177A430C222d7e678",
-        "assetContract": "https://etherscan.io/address/0x6Ee0f7BB50a54AB5253dA0667B0Dc2ee526C30a8"
+        "assetContract": "https://etherscan.io/address/0x6Ee0f7BB50a54AB5253dA0667B0Dc2ee526C30a8",
+        "coingeckoId": "aave-busd-v1"
       }
     },
     {
@@ -5207,7 +5611,8 @@
       "extensions": {
         "address": "0x712DB54daA836B53Ef1EcBb9c6ba3b9Efb073F40",
         "bridgeContract": "https://etherscan.io/address/0xf92cD566Ea4864356C5491c177A430C222d7e678",
-        "assetContract": "https://etherscan.io/address/0x712DB54daA836B53Ef1EcBb9c6ba3b9Efb073F40"
+        "assetContract": "https://etherscan.io/address/0x712DB54daA836B53Ef1EcBb9c6ba3b9Efb073F40",
+        "coingeckoId": "aave-enj-v1"
       }
     },
     {
@@ -5224,7 +5629,8 @@
       "extensions": {
         "address": "0x69948cC03f478B95283F7dbf1CE764d0fc7EC54C",
         "bridgeContract": "https://etherscan.io/address/0xf92cD566Ea4864356C5491c177A430C222d7e678",
-        "assetContract": "https://etherscan.io/address/0x69948cC03f478B95283F7dbf1CE764d0fc7EC54C"
+        "assetContract": "https://etherscan.io/address/0x69948cC03f478B95283F7dbf1CE764d0fc7EC54C",
+        "coingeckoId": "aave-ren-v1"
       }
     },
     {
@@ -5241,7 +5647,8 @@
       "extensions": {
         "address": "0x12e51E77DAAA58aA0E9247db7510Ea4B46F9bEAd",
         "bridgeContract": "https://etherscan.io/address/0xf92cD566Ea4864356C5491c177A430C222d7e678",
-        "assetContract": "https://etherscan.io/address/0x12e51E77DAAA58aA0E9247db7510Ea4B46F9bEAd"
+        "assetContract": "https://etherscan.io/address/0x12e51E77DAAA58aA0E9247db7510Ea4B46F9bEAd",
+        "coingeckoId": "ayfi"
       }
     },
     {
@@ -5581,7 +5988,8 @@
       "extensions": {
         "address": "0x3Ed3B47Dd13EC9a98b44e6204A523E766B225811",
         "bridgeContract": "https://etherscan.io/address/0xf92cD566Ea4864356C5491c177A430C222d7e678",
-        "assetContract": "https://etherscan.io/address/0x3Ed3B47Dd13EC9a98b44e6204A523E766B225811"
+        "assetContract": "https://etherscan.io/address/0x3Ed3B47Dd13EC9a98b44e6204A523E766B225811",
+        "coingeckoId": "aave-usdt"
       }
     },
     {
@@ -5598,7 +6006,8 @@
       "extensions": {
         "address": "0x9ff58f4fFB29fA2266Ab25e75e2A8b3503311656",
         "bridgeContract": "https://etherscan.io/address/0xf92cD566Ea4864356C5491c177A430C222d7e678",
-        "assetContract": "https://etherscan.io/address/0x9ff58f4fFB29fA2266Ab25e75e2A8b3503311656"
+        "assetContract": "https://etherscan.io/address/0x9ff58f4fFB29fA2266Ab25e75e2A8b3503311656",
+        "coingeckoId": "aave-wbtc"
       }
     },
     {
@@ -5649,7 +6058,8 @@
       "extensions": {
         "address": "0xDf7FF54aAcAcbFf42dfe29DD6144A69b629f8C9e",
         "bridgeContract": "https://etherscan.io/address/0xf92cD566Ea4864356C5491c177A430C222d7e678",
-        "assetContract": "https://etherscan.io/address/0xDf7FF54aAcAcbFf42dfe29DD6144A69b629f8C9e"
+        "assetContract": "https://etherscan.io/address/0xDf7FF54aAcAcbFf42dfe29DD6144A69b629f8C9e",
+        "coingeckoId": "aave-zrx"
       }
     },
     {
@@ -5700,7 +6110,8 @@
       "extensions": {
         "address": "0x05Ec93c0365baAeAbF7AefFb0972ea7ECdD39CF1",
         "bridgeContract": "https://etherscan.io/address/0xf92cD566Ea4864356C5491c177A430C222d7e678",
-        "assetContract": "https://etherscan.io/address/0x05Ec93c0365baAeAbF7AefFb0972ea7ECdD39CF1"
+        "assetContract": "https://etherscan.io/address/0x05Ec93c0365baAeAbF7AefFb0972ea7ECdD39CF1",
+        "coingeckoId": "aave-bat"
       }
     },
     {
@@ -5717,7 +6128,8 @@
       "extensions": {
         "address": "0xA361718326c15715591c299427c62086F69923D9",
         "bridgeContract": "https://etherscan.io/address/0xf92cD566Ea4864356C5491c177A430C222d7e678",
-        "assetContract": "https://etherscan.io/address/0xA361718326c15715591c299427c62086F69923D9"
+        "assetContract": "https://etherscan.io/address/0xA361718326c15715591c299427c62086F69923D9",
+        "coingeckoId": "aave-busd"
       }
     },
     {
@@ -5734,7 +6146,8 @@
       "extensions": {
         "address": "0x028171bCA77440897B824Ca71D1c56caC55b68A3",
         "bridgeContract": "https://etherscan.io/address/0xf92cD566Ea4864356C5491c177A430C222d7e678",
-        "assetContract": "https://etherscan.io/address/0x028171bCA77440897B824Ca71D1c56caC55b68A3"
+        "assetContract": "https://etherscan.io/address/0x028171bCA77440897B824Ca71D1c56caC55b68A3",
+        "coingeckoId": "aave-dai"
       }
     },
     {
@@ -5751,7 +6164,8 @@
       "extensions": {
         "address": "0xaC6Df26a590F08dcC95D5a4705ae8abbc88509Ef",
         "bridgeContract": "https://etherscan.io/address/0xf92cD566Ea4864356C5491c177A430C222d7e678",
-        "assetContract": "https://etherscan.io/address/0xaC6Df26a590F08dcC95D5a4705ae8abbc88509Ef"
+        "assetContract": "https://etherscan.io/address/0xaC6Df26a590F08dcC95D5a4705ae8abbc88509Ef",
+        "coingeckoId": "aave-enj"
       }
     },
     {
@@ -5768,7 +6182,8 @@
       "extensions": {
         "address": "0x39C6b3e42d6A679d7D776778Fe880BC9487C2EDA",
         "bridgeContract": "https://etherscan.io/address/0xf92cD566Ea4864356C5491c177A430C222d7e678",
-        "assetContract": "https://etherscan.io/address/0x39C6b3e42d6A679d7D776778Fe880BC9487C2EDA"
+        "assetContract": "https://etherscan.io/address/0x39C6b3e42d6A679d7D776778Fe880BC9487C2EDA",
+        "coingeckoId": "aave-knc"
       }
     },
     {
@@ -5785,7 +6200,8 @@
       "extensions": {
         "address": "0xa06bC25B5805d5F8d82847D191Cb4Af5A3e873E0",
         "bridgeContract": "https://etherscan.io/address/0xf92cD566Ea4864356C5491c177A430C222d7e678",
-        "assetContract": "https://etherscan.io/address/0xa06bC25B5805d5F8d82847D191Cb4Af5A3e873E0"
+        "assetContract": "https://etherscan.io/address/0xa06bC25B5805d5F8d82847D191Cb4Af5A3e873E0",
+        "coingeckoId": "aave-link"
       }
     },
     {
@@ -5802,7 +6218,8 @@
       "extensions": {
         "address": "0xa685a61171bb30d4072B338c80Cb7b2c865c873E",
         "bridgeContract": "https://etherscan.io/address/0xf92cD566Ea4864356C5491c177A430C222d7e678",
-        "assetContract": "https://etherscan.io/address/0xa685a61171bb30d4072B338c80Cb7b2c865c873E"
+        "assetContract": "https://etherscan.io/address/0xa685a61171bb30d4072B338c80Cb7b2c865c873E",
+        "coingeckoId": "aave-mana"
       }
     },
     {
@@ -5819,7 +6236,8 @@
       "extensions": {
         "address": "0xc713e5E149D5D0715DcD1c156a020976e7E56B88",
         "bridgeContract": "https://etherscan.io/address/0xf92cD566Ea4864356C5491c177A430C222d7e678",
-        "assetContract": "https://etherscan.io/address/0xc713e5E149D5D0715DcD1c156a020976e7E56B88"
+        "assetContract": "https://etherscan.io/address/0xc713e5E149D5D0715DcD1c156a020976e7E56B88",
+        "coingeckoId": "aave-mkr"
       }
     },
     {
@@ -5836,7 +6254,8 @@
       "extensions": {
         "address": "0xCC12AbE4ff81c9378D670De1b57F8e0Dd228D77a",
         "bridgeContract": "https://etherscan.io/address/0xf92cD566Ea4864356C5491c177A430C222d7e678",
-        "assetContract": "https://etherscan.io/address/0xCC12AbE4ff81c9378D670De1b57F8e0Dd228D77a"
+        "assetContract": "https://etherscan.io/address/0xCC12AbE4ff81c9378D670De1b57F8e0Dd228D77a",
+        "coingeckoId": "aave-ren"
       }
     },
     {
@@ -5853,7 +6272,8 @@
       "extensions": {
         "address": "0x35f6B052C598d933D69A4EEC4D04c73A191fE6c2",
         "bridgeContract": "https://etherscan.io/address/0xf92cD566Ea4864356C5491c177A430C222d7e678",
-        "assetContract": "https://etherscan.io/address/0x35f6B052C598d933D69A4EEC4D04c73A191fE6c2"
+        "assetContract": "https://etherscan.io/address/0x35f6B052C598d933D69A4EEC4D04c73A191fE6c2",
+        "coingeckoId": "aave-snx"
       }
     },
     {
@@ -5870,7 +6290,8 @@
       "extensions": {
         "address": "0x6C5024Cd4F8A59110119C56f8933403A539555EB",
         "bridgeContract": "https://etherscan.io/address/0xf92cD566Ea4864356C5491c177A430C222d7e678",
-        "assetContract": "https://etherscan.io/address/0x6C5024Cd4F8A59110119C56f8933403A539555EB"
+        "assetContract": "https://etherscan.io/address/0x6C5024Cd4F8A59110119C56f8933403A539555EB",
+        "coingeckoId": "aave-susd"
       }
     },
     {
@@ -5887,7 +6308,8 @@
       "extensions": {
         "address": "0x101cc05f4A51C0319f570d5E146a8C625198e636",
         "bridgeContract": "https://etherscan.io/address/0xf92cD566Ea4864356C5491c177A430C222d7e678",
-        "assetContract": "https://etherscan.io/address/0x101cc05f4A51C0319f570d5E146a8C625198e636"
+        "assetContract": "https://etherscan.io/address/0x101cc05f4A51C0319f570d5E146a8C625198e636",
+        "coingeckoId": "aave-tusd"
       }
     },
     {
@@ -5904,7 +6326,8 @@
       "extensions": {
         "address": "0xBcca60bB61934080951369a648Fb03DF4F96263C",
         "bridgeContract": "https://etherscan.io/address/0xf92cD566Ea4864356C5491c177A430C222d7e678",
-        "assetContract": "https://etherscan.io/address/0xBcca60bB61934080951369a648Fb03DF4F96263C"
+        "assetContract": "https://etherscan.io/address/0xBcca60bB61934080951369a648Fb03DF4F96263C",
+        "coingeckoId": "aave-usdc"
       }
     },
     {
@@ -5927,7 +6350,7 @@
       "symbol": "AAPE",
       "name": "AAPE",
       "decimals": 9,
-      "logoURI": "https://cdn.jsdelivr.net/gh/solana-labs/token-list/assets/mainnet/5kjfp2qfRbqCXTQeUYgHNnTLf13eHoKjC5hHynW9DvQE/logo.jpg",
+      "logoURI": "https://cdn.jsdelivr.net/gh/solana-labs/token-list@main/assets/mainnet/5kjfp2qfRbqCXTQeUYgHNnTLf13eHoKjC5hHynW9DvQE/logo.jpg",
       "tags": [],
       "extensions": {
         "website": "https://aape.io/"
@@ -5939,14 +6362,16 @@
       "symbol": "COPE",
       "name": "COPE",
       "decimals": 6,
-      "logoURI": "https://cdn.jsdelivr.net/gh/solana-labs/token-list/assets/mainnet/3K6rftdAaQYMPunrtNRHgnK2UAtjm2JwyT2oCiTDouYE/logo.jpg",
+      "logoURI": "https://cdn.jsdelivr.net/gh/solana-labs/token-list@main/assets/mainnet/3K6rftdAaQYMPunrtNRHgnK2UAtjm2JwyT2oCiTDouYE/logo.jpg",
       "tags": [
         "trading",
         "index",
         "Algos"
       ],
       "extensions": {
-        "website": "https://www.unlimitedcope.com/"
+        "website": "https://www.unlimitedcope.com/",
+        "serumV3Usdc": "7MpMwArporUHEGW7quUpkPZp5L5cHPs9eKUfKCdaPHq2",
+        "coingeckoId": "cope"
       }
     },
     {
@@ -5955,12 +6380,13 @@
       "symbol": "MCAPS",
       "name": "Mango Market Caps",
       "decimals": 6,
-      "logoURI": "https://cdn.jsdelivr.net/gh/solana-labs/token-list/assets/mainnet/2prC8tcVsXwVJAinhxd2zeMeWMWaVyzPoQeLKyDZRFKd/logo.png",
+      "logoURI": "https://cdn.jsdelivr.net/gh/solana-labs/token-list@main/assets/mainnet/2prC8tcVsXwVJAinhxd2zeMeWMWaVyzPoQeLKyDZRFKd/logo.png",
       "tags": [
         "mango"
       ],
       "extensions": {
-        "website": "https://initialcapoffering.com/"
+        "website": "https://initialcapoffering.com/",
+        "coingeckoId": "mango-market-caps"
       }
     },
     {
@@ -5996,7 +6422,8 @@
       "logoURI": "https://ropesolana.com/content/files/rope_token.svg",
       "tags": [],
       "extensions": {
-        "website": "https://ropesolana.com/"
+        "website": "https://ropesolana.com/",
+        "coingeckoId": "rope-token"
       }
     },
     {
@@ -6019,14 +6446,44 @@
     },
     {
       "chainId": 101,
+      "address": "ETAtLmCmsoiEEKfNrHKJ2kYy3MoABhU6NQvpSfij5tDs",
+      "symbol": "MEDIA",
+      "name": "Media Network",
+      "decimals": 6,
+      "logoURI": "https://cdn.jsdelivr.net/gh/solana-labs/token-list@main/assets/mainnet/ETAtLmCmsoiEEKfNrHKJ2kYy3MoABhU6NQvpSfij5tDs/logo.png",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+        "website": "https://media.network/",
+        "coingeckoId": "media-network"
+      }
+    },
+    {
+      "chainId": 101,
       "address": "StepAscQoEioFxxWGnh2sLBDFp9d8rvKz2Yp39iDpyT",
       "symbol": "STEP",
       "name": "Step",
       "decimals": 9,
-      "logoURI": "https://cdn.jsdelivr.net/gh/solana-labs/token-list/assets/mainnet/StepAscQoEioFxxWGnh2sLBDFp9d8rvKz2Yp39iDpyT/logo.png",
+      "logoURI": "https://cdn.jsdelivr.net/gh/solana-labs/token-list@main/assets/mainnet/StepAscQoEioFxxWGnh2sLBDFp9d8rvKz2Yp39iDpyT/logo.png",
       "tags": [],
       "extensions": {
-        "website": "https://step.finance/"
+        "website": "https://step.finance/",
+        "coingeckoId": "step-finance"
+      }
+    },
+    {
+      "chainId": 101,
+      "address": "7Geyz6iiRe8buvunsU6TXndxnpLt9mg6iPxqhn6cr3c6",
+      "symbol": "ANFT",
+      "name": "AffinityLabs",
+      "decimals": 9,
+      "logoURI": "https://affinitylabs.tech/media/images/token_logo.png",
+      "tags": [
+        "nft"
+      ],
+      "extensions": {
+        "website": "https://affinitylabs.tech/"
       }
     },
     {
@@ -6038,7 +6495,8 @@
       "logoURI": "https://cdn.jsdelivr.net/gh/trustwallet/assets@master/blockchains/solana/info/logo.png",
       "tags": [],
       "extensions": {
-        "website": "https://www.solana.com/"
+        "website": "https://www.solana.com/",
+        "coingeckoId": "solana"
       }
     },
     {
@@ -6047,12 +6505,13 @@
       "symbol": "USDC",
       "name": "USD Coin",
       "decimals": 6,
-      "logoURI": "https://cdn.jsdelivr.net/gh/trustwallet/assets@master/blockchains/ethereum/assets/0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48/logo.png",
+      "logoURI": "https://cdn.jsdelivr.net/gh/solana-labs/token-list@main/assets/mainnet/EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v/logo.png",
       "tags": [
         "stablecoin"
       ],
       "extensions": {
-        "website": "https://www.centre.io/"
+        "website": "https://www.centre.io/",
+        "coingeckoId": "usd-coin"
       }
     },
     {
@@ -6086,7 +6545,10 @@
       "name": "Wrapped SOL",
       "decimals": 9,
       "logoURI": "https://cdn.jsdelivr.net/gh/trustwallet/assets@master/blockchains/solana/info/logo.png",
-      "tags": []
+      "tags": [],
+      "extensions": {
+        "coingeckoId": "solana"
+      }
     },
     {
       "chainId": 103,
@@ -6094,7 +6556,7 @@
       "symbol": "XYZ",
       "name": "XYZ Test",
       "decimals": 0,
-      "logoURI": "https://cdn.jsdelivr.net/gh/trustwallet/assets@master/blockchains/ethereum/assets/0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48/logo.png",
+      "logoURI": "https://cdn.jsdelivr.net/gh/solana-labs/token-list@main/assets/mainnet/EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v/logo.png",
       "tags": []
     },
     {
@@ -6119,7 +6581,8 @@
       "logoURI": "https://cdn.jsdelivr.net/gh/trustwallet/assets@master/blockchains/ethereum/assets/0x476c5E26a75bd202a9683ffD34359C0CC15be0fF/logo.png",
       "tags": [],
       "extensions": {
-        "website": "https://projectserum.com/"
+        "website": "https://projectserum.com/",
+        "coingeckoId": "serum"
       }
     },
     {
@@ -6138,7 +6601,8 @@
         "background": "https://sushi.com/static/media/Background-sm.fd449814.jpg/",
         "address": "0x6B3595068778DD592e39A122f4f5a5cF09C90fE2",
         "bridgeContract": "https://etherscan.io/address/0xf92cD566Ea4864356C5491c177A430C222d7e678",
-        "assetContract": "https://etherscan.io/address/0x6B3595068778DD592e39A122f4f5a5cF09C90fE2"
+        "assetContract": "https://etherscan.io/address/0x6B3595068778DD592e39A122f4f5a5cF09C90fE2",
+        "coingeckoId": "sushi"
       }
     },
     {
@@ -6169,7 +6633,7 @@
       "symbol": "SPD",
       "name": "Solpad",
       "decimals": 10,
-      "logoURI": "https://cdn.jsdelivr.net/gh/solana-labs/token-list/assets/mainnet/4DrV8khCoPS3sWRj6t1bb2DzT9jD4mZp6nc7Jisuuv1b/logo.jpg",
+      "logoURI": "https://cdn.jsdelivr.net/gh/solana-labs/token-list@main/assets/mainnet/4DrV8khCoPS3sWRj6t1bb2DzT9jD4mZp6nc7Jisuuv1b/logo.jpg",
       "tags": [],
       "extensions": {
         "website": "https://www.solpad.io/"
@@ -6215,7 +6679,7 @@
       "symbol": "SLIM",
       "name": "Solanium",
       "decimals": 6,
-      "logoURI": "https://cdn.jsdelivr.net/gh/solana-labs/token-list/assets/mainnet/xxxxa1sKNGwFtw2kFn8XauW9xq8hBZ5kVtcSesTT9fW/logo.png",
+      "logoURI": "https://cdn.jsdelivr.net/gh/solana-labs/token-list@main/assets/mainnet/xxxxa1sKNGwFtw2kFn8XauW9xq8hBZ5kVtcSesTT9fW/logo.png",
       "tags": [],
       "extensions": {
         "website": "https://solanium.io/"
@@ -6254,7 +6718,8 @@
       "logoURI": "https://i.ibb.co/tLGpvNf/samo.png",
       "tags": [],
       "extensions": {
-        "website": "https://samoyedcoin.com/"
+        "website": "https://samoyedcoin.com/",
+        "coingeckoId": "samoyedcoin"
       }
     },
     {
@@ -6262,6 +6727,30 @@
       "address": "HAWy8kV3bD4gaN6yy6iK2619x2dyzLUBj1PfJiihTisE",
       "symbol": "DOI",
       "name": "Discovery of Iris",
+      "decimals": 0,
+      "logoURI": "https://storage.googleapis.com/star-atlas-assets/star-atlas-logo.png",
+      "tags": [],
+      "extensions": {
+        "website": "https://www.staratlas.com"
+      }
+    },
+    {
+      "chainId": 101,
+      "address": "ATSPo9f9TJ3Atx8SuoTYdzSMh4ctQBzYzDiNukQDmoF7",
+      "symbol": "HOSA",
+      "name": "The Heart of Star Atlas",
+      "decimals": 0,
+      "logoURI": "https://storage.googleapis.com/star-atlas-assets/star-atlas-logo.png",
+      "tags": [],
+      "extensions": {
+        "website": "https://www.staratlas.com"
+      }
+    },
+    {
+      "chainId": 101,
+      "address": "36s6AFRXzE9KVdUyoJQ5y6mwxXw21LawYqqwNiQUMD8s",
+      "symbol": "TCW",
+      "name": "The Convergence War",
       "decimals": 0,
       "logoURI": "https://storage.googleapis.com/star-atlas-assets/star-atlas-logo.png",
       "tags": [],
@@ -6280,6 +6769,153 @@
       "extensions": {
         "website": "https://www.soldoge.org"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "DQRNdQWz5NzbYgknGsZqSSXbdhQWvXSe8S56mrtNAs1b",
+      "symbol": "ENTROPPP",
+      "name": "ENTROPPP (Entropy for security)",
+      "decimals": 6,
+      "logoURI": "https://gateway.pinata.cloud/ipfs/QmcY3sv2n8bZqH3r6BKRP2N4zLNU6N8tojjviD65wma4u2/ENTROPPP%20JPG.jpg",
+      "tags": [
+        "Cryptography",
+        "Blockchain security",
+        "Randomness and entropy"
+      ],
+      "extensions": {
+        "website": "https://www.entroppp.com"
+      }
+    },
+    {
+      "chainId": 101,
+      "address": "8RYSc3rrS4X4bvBCtSJnhcpPpMaAJkXnVKZPzANxQHgz",
+      "symbol": "FARM",
+      "name": "SolaFarm",
+      "decimals": 9,
+      "logoURI": "https://sola.farm/logo.png",
+      "tags": [],
+      "extensions": {
+        "website": "https://sola.farm/"
+      }
+    },
+    {
+      "chainId": 101,
+      "address": "43VWkd99HjqkhFTZbWBpMpRhjG469nWa7x7uEsgSH7We",
+      "symbol": "STNK",
+      "name": "Stonks",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/StonksDev/Resource/main/StonksIcon250.png",
+      "tags": [],
+      "extensions": {
+        "website": "https://stonkscoin.org/"
+      }
+    },
+    {
+      "chainId": 101,
+      "address": "667SDyj7oNYUqhwRV4SNur7wxN9ZfhKVJbumXwkfLGTs",
+      "symbol": "MEAL",
+      "name": "HUNGRY",
+      "decimals": 10,
+      "logoURI": "https://hungrystatic.b-cdn.net/images/default.png",
+      "tags": [],
+      "extensions": {
+        "website": "https://hungrycoin.io/"
+      }
+    },
+    {
+      "chainId": 101,
+      "address": "8GQsW3f7mdwfjqJon2myADcBsSsRjpXmxHYDG8q1pvV6",
+      "symbol": "HOLD",
+      "name": "Holdana",
+      "decimals": 9,
+      "logoURI": "https://i.ibb.co/7CWsB34/holdana-token.png",
+      "tags": [],
+      "extensions": {
+        "medium": "https://holdanatoken.medium.com/",
+        "twitter": "https://twitter.com/HoldanaOfficial"
+      }
+    },
+    {
+      "chainId": 101,
+      "address": "64SqEfHtu4bZ6jr1mAxaWrLFdMngbKbru9AyaG2Dyk5T",
+      "symbol": "wen-token",
+      "name": "wen-token",
+      "decimals": 0,
+      "logoURI": "https://gateway.pinata.cloud/ipfs/QmQ69cGaYFNJajafKRbGgwtcKHXGSqX2QdTy85H9synFos",
+      "tags": [
+        "nft"
+      ],
+      "extensions": {
+        "website": "https://pythians.pyth.network"
+      }
+    },
+    {
+      "chainId": 101,
+      "address": "xuNGfwG8r3CEubQcssj3A7zoZwb4NaiamhHsJEMt7kf",
+      "symbol": "SNY",
+      "name": "Synthetify",
+      "decimals": 6,
+      "logoURI": "https://resources.synthetify.io/sythetify.png",
+      "tags": [],
+      "extensions": {
+        "website": "https://synthetify.io/",
+        "twitter": "https://twitter.com/synthetify",
+        "coingeckoId": "syntheify-token"
+      }
+    },
+    {
+      "chainId": 101,
+      "address": "4wTMJsh3q66PmAkmwEW47qVDevMZMVVWU3n1Yhqztwi6",
+      "symbol": "ARCD",
+      "name": "Arcade Token (Wormhole)",
+      "decimals": 9,
+      "logoURI": "https://arcade.city/img/ARCD200.png",
+      "tags": [
+        "wrapped",
+        "wormhole"
+      ],
+      "extensions": {
+        "address": "0xb581E3a7dB80fBAA821AB39342E9Cbfd2ce33c23",
+        "bridgeContract": "https://etherscan.io/address/0xf92cD566Ea4864356C5491c177A430C222d7e678",
+        "assetContract": "https://etherscan.io/address/0xb581E3a7dB80fBAA821AB39342E9Cbfd2ce33c23",
+        "website": "https://arcade.city",
+        "twitter": "https://twitter.com/ArcadeCityHall"
+      }
+    },
+    {
+      "chainId": 101,
+      "address": "Amt5wUJREJQC5pX7Z48YSK812xmu4j3sQVupNhtsEuY8",
+      "symbol": "FROG",
+      "name": "FROG",
+      "decimals": 6,
+      "logoURI": "https://raw.githubusercontent.com/FROG-SPL/branding/main/the_frauge_finifhes.jpeg",
+      "tags": [],
+      "extensions": {
+        "website": "https://www.frogsolana.com/"
+      } 
+    },
+    {
+      "chainId": 101,
+      "address": "3x7UeXDF4imKSKnizK9mYyx1M5bTNzpeALfPeB8S6XT9",
+      "symbol": "SKEM",
+      "name": "SKEM",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/cheesesoda/skem/main/skemtoken.svg",
+      "tags": [],
+      "extensions": {
+        "website": "https://skem.finance/"
+      }
+    },
+     {
+      "chainId": 101,
+      "address": "CmNZJZ7tL3uqy7F9HbVsqtZLqThi6mCnthckS7kPuDud",
+      "symbol": "Ape with Grape",
+      "name": "Ape with Grape",
+      "decimals": 0,
+      "tags": ["nft"],
+      "extensions": {
+        "website": "https://ipfs.io/ipfs/QmZepa8FobdkUGuibwkLLmrns1ybcLDQquCWAz7RahJY5M"
+      } 
     }
   ],
   "version": {
